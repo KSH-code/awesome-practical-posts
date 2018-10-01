@@ -1,8 +1,0 @@
-* [== 에 대해서 이해하고 있는가?](soft-equal/)
-* [Lexical Scope 에 대해서 이해하고 있는가?](lexical-scope/)
-* [Promise 객체는 어떻게 에러 핸들링을 하고 있는가?](promise-error-handling/)
-* [Bitwise operators 는 어떻게 작동하는가?](bitwise-operators/)
-* [else if 란 무엇인가?](else-if/)
-* [jsx 에서의 render function 의 태그는 왜 1 개 여야만 하는가?](jsx/)
-* [React 에서의 state 는 왜 Immutable 값이어야 하는가?](react-state-immutable/)
-* [js 에서의 sort 는 어떻게 작동하는가?](js-sort/)

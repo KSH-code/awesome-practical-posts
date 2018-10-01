@@ -24,3 +24,4 @@
 ## 내가 면접관이라면?
 1. race condition 을 자신이 사용해본 프로그래밍 언어로 설명 하실 수 있나요?
 2. node.js 에서의 require 를 아록 있나요? [세부 링크](../../js/know-require/README.md)
+3. 현재 브라우저의 paint(렌더링) 성능이 좋지 않습니다. css 의 속성으로 해결해야 되는 상황이라면 어떻게 하겠습니까? [세부 링크](../../other/css/will-change/README.md)
