@@ -21,6 +21,7 @@
 ### CS
 1. race condition 을 자신이 사용해본 프로그래밍 언어로 설명 하실 수 있나요?
 2. 로그를 쌓는 시스템이 많은 부하로 인해서 데이터가 유실되고 있습니다. 어떻게 해결하실 건가요? [세부 링크](cs/will-change/README.md)
+3. 객체지향 프로그래밍 언어에서의 method overriding 과 method overloading 가 무엇인지 알고 있나요? [세부 링크](cs/method-over/README.md)
 ### Node.js
 1. Node.js 에서의 require 를 알고 있나요? [세부 링크](nodejs/know-require/README.md)
 2. Webpack 은 무엇이며, 언제 사용되나요? [세부 링크](nodejs/webpack/README.md)
