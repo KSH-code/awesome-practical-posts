@@ -29,3 +29,5 @@
 1. 현재 브라우저의 paint(렌더링) 성능이 좋지 않습니다. css 의 속성으로 해결해야 되는 상황이라면 어떻게 하겠습니까? [세부 링크](css/will-change/README.md)
 ### Mongodb
 1. 현재 query 의 performance 가 매우 좋지 않습니다. 해결 방법을 알고 계신가요? [세부 링크](mongodb/index/README.md)
+### Optimization
+1. 현재 초당 100 개의 요청을 받을 수 있는 서버에 요청이 초당 1000 개가 들어오고 있습니다. 어떻게 해결할까요? [세부 링크](optimization/caching/README.md)
