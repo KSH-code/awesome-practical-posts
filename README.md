@@ -36,3 +36,5 @@
 1. 현재 초당 100 개의 요청을 받을 수 있는 서버에 요청이 초당 1000 개가 들어오고 있습니다. 어떻게 해결할까요? [세부 링크](optimization/caching/README.md)
 ### Technique
 1. Microservice Architecture 를 알고 계시다면, 알고 있는대로 설명해주세요. [세부 링크](technique/microservice-architecture/README.md)
+### Algorithm-problem
+1. [반복문] 철수와 영희 [세부 링크](algorithm/1/README.md)
