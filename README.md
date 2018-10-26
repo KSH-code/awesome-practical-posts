@@ -27,6 +27,7 @@
 5. Heap 자료구조란 무엇이고 작동에 대해서 설명할 수 있나요? [세부 링크](cs/algorithm/heap/README.md)
 6. Hash function 은 무엇인가요? [세부 링크](cs/algorithm/hash-function/README.md)
 7. Hash table 은 무엇인가요? [세부 링크](cs/algorithm/hash-table/README.md)
+8. I/O bound job 과 CPU bound job 의 차이점은 무엇인가요? [세부 링크](cs/bound/README.md)
 ### Node.js
 1. Node.js 에서의 require 를 알고 있나요? [세부 링크](nodejs/know-require/README.md)
 2. Webpack 은 무엇이며, 언제 사용되나요? [세부 링크](nodejs/webpack/README.md)
