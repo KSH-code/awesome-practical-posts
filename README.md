@@ -41,3 +41,5 @@
 1. Microservice Architecture 를 알고 계시다면, 알고 있는대로 설명해주세요. [세부 링크](technique/microservice-architecture/README.md)
 ### Algorithm-problem
 1. [반복문] 철수와 영희 [세부 링크](algorithm/1/README.md)
+### Refactoring
+1. 중복된 if, else statement 가 많은 경우 어떻게 코드를 리팩토링 할 수 있나요? [세부 링크](refactoring/guard-clause/README.md)
