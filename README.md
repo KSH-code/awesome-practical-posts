@@ -19,6 +19,7 @@
 18. 작업은 어떤 단위로 나눠서 하게 됐나요? (포트폴리오나 업무 포함)
 19. 현재까지 개발을 진행하면서 가장 뿌듯했던 순간이 있나요?
 20. 현재 어떠한 값이 DB 에서 변경이 일어나고 있습니다. 로그도 남기지 않는 작업이며, 빨리 고쳐야 서비스가 안정화 된다면 어떻게 하실건가요?
+21. 자신이 만든 서비스 중, 가장 많은 사람이 사용했던 서비스는 어떤건가요?
 ## 내가 면접관이라면?
 ### CS
 1. race condition 을 자신이 사용해본 프로그래밍 언어로 설명 하실 수 있나요?
@@ -42,7 +43,7 @@
 3. 데이터베이스 조회할 때, offset 과 limit 을 사용하고 있습니다. 성능 개선을 할 수 있을 것 같은데, 어떻게 해야 될까요?[세부 링크](optimization/last-key/README.md)
 ### Technique
 1. Microservice Architecture 를 알고 계시다면, 알고 있는대로 설명해주세요. [세부 링크](technique/microservice-architecture/README.md)
-2. 현재 로그는 많은 요청을 받고 있습니다. 너무 많은 요청이 일어나서 서버 포트가 고갈되면 어떻게 해결하는게 좋을까요?[세부 링크](technique/message-queue/README.md)
+2. 현재 로그 서버는 많은 요청을 받고 있습니다. 너무 많은 요청이 일어나서 서버 포트가 고갈되면 어떻게 해결하는게 좋을까요?[세부 링크](technique/message-queue/README.md)
 ### Algorithm-problem
 1. [반복문] 철수와 영희 [세부 링크](algorithm/1/README.md)
 ### Refactoring
