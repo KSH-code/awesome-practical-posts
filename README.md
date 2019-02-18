@@ -49,3 +49,4 @@
 ### Refactoring
 1. 중복된 if, else statement 가 많은 경우 어떻게 코드를 리팩토링 할 수 있나요? [세부 링크](refactoring/guard-clause/README.md)
 2. 여러 method 에서 중복된 logic 을 사용하고 있네요, 어떻게 하면 좋을까요? [세부 링크](refactoring/extract-method/README.md)
+3. extract method 를 많이 하다보니, 너무 많은 method 가 존재하네요. 어떻게 하면 좋을까요? [세부 링크](refactoring/inline-method/README.md)
