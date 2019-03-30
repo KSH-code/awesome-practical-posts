@@ -16,6 +16,7 @@ class Bird
   end
 end
 ```
+- 위 method 를 어떻게 리팩토링하면 될까요?
 <details><summary>Q1. 답</summary>
 <pre>
 # 준비
