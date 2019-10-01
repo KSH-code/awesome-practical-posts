@@ -1,5 +1,5 @@
 - [질문 받았던 면접 질문들](questions.md)
-- [내가 만든 면접 질문](i-maked-questions.md)
+- [내가 만든 면접 질문](i-made-questions.md)
 - [CS](cs.md)
 - [Algorithm](algorithm.md)
 - [ETC](etc.md)
