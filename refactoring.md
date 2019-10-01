@@ -1,0 +1,5 @@
+1. 중복된 if, else statement 가 많은 경우 어떻게 코드를 리팩토링 할 수 있나요? [세부 링크](refactoring/guard-clause/README.md)
+2. 여러 method 에서 중복된 logic 을 사용하고 있네요, 어떻게 하면 좋을까요? [세부 링크](refactoring/extract-method/README.md)
+3. extract method 를 많이 하다보니, 너무 많은 method 가 존재하네요. 어떻게 하면 좋을까요? [세부 링크](refactoring/inline-method/README.md)
+4. 하위 클래스의 분기들을 커버하기 위해 생성된 method 가 상위 클래스에 존재한다. 어떻게 하면 좋을까요? [세부 링크](refactoring/replace-conditional-with-polymorphism/README.md)
+5. 여러 Attributes 를 설정하는 method 가 존재합니다. 너무 많은 분기로 코드가 복잡해졌는데 어떻게 리팩토링을 하면 좋을까요? [세부 링크](refactoring/replace-parameter-with-explicit-method/README.md)
