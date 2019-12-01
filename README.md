@@ -3,7 +3,8 @@
 - [CS](cs.md)
 - [Algorithm Problems](algorithm-problems.md)
 - [ETC](etc.md)
-- [그냥 글](just-writing-post.md)
+- [회고](retrospective.md)
+- [잡다한 글](just-writing-post.md)
 
 ## Todo
 
