@@ -1,6 +1,7 @@
 - [질문 받았던 면접 질문들](questions.md)
 - [내가 만든 면접 질문](i-made-questions.md)
 - [CS](cs.md)
+- [운영체제](operating-systemm.md)
 - [Algorithm Problems](algorithm-problems.md)
 - [ETC](etc.md)
 - [회고](retrospective.md)
