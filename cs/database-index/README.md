@@ -1,7 +1,7 @@
-# 출제 의도
-1. 기본 지식이 있는가?
 ## 문제
+
 Q1. 인덱스에 대해서 아는만큼 설명하시오.
+
 <details><summary>Q1. 답</summary>
 <pre>
 데이터베이스에서의 인덱스는 선택된 키(key)에 대응하는 값(value)들을 쉽게 조회할 수 있도록 도와줍니다.
@@ -14,12 +14,12 @@ full scan -> range scan 이기 때문입니다.
 
 삽입에서 느린 이유는 범위별로 tree 에 저장되는데 그 중간에 뭔가가 들어가면 밀리기 등에 대한 operation 이 다 overhead 기 때문입니다.
 
-
 --- 결론 ---
+
 1. 값을 찾기위한 목차와 같은 역할을 합니다.
 2. query 에서는 빠른 효과가 있지만, insert 에서는 overhead 가 발생
 3. update, delete 에서도 overhead 가 발생하지만, index 가 제공해주는 목차와 같은 기능 덕분에 오히려 더 빠름
 4. 너무 많은 인덱스를 사용하려하면, index 를 optimizer 가 올바르지 않은것을 선택할 수 있다. (적절하게 사용해야 된다.)
 5. hint 를 이용해서 원하는 인덱스 값을 지정할 수 있다.
-</pre>
-</details>
+   </pre>
+   </details>

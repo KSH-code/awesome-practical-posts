@@ -1,32 +1,39 @@
-# 출제 의도
-1. require 에 대해서 알고 있는가?
 ## 문제
+
 ### 1.js
+
 ```javascript
-require('./2').hello()
+require('./2').hello();
 ```
+
 ### 2.js
+
 ```javascript
-require('./3')
-module.exports = (function () {
-  let str
+require('./3');
+module.exports = (function() {
+  let str;
   return {
-    setPrintString (tempStr) {
-      str = tempStr
+    setPrintString(tempStr) {
+      str = tempStr;
     },
-    hello () {
-      console.log(str)
+    hello() {
+      console.log(str);
     }
-  }
-})()
+  };
+})();
 ```
+
 ### 3.js
+
 ```javascript
-require('./2').setPrintString('correct')
-module.exports = {}
+require('./2').setPrintString('correct');
+module.exports = {};
 ```
+
 Q1. 해당 코드가 실행되면 어떤 결과가 나오는지 예측하시오.
+
 ## 정답
+
 <details><summary>Q1. 답</summary>
 <pre>
 에러가 납니다.

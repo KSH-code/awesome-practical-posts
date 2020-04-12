@@ -1,7 +1,5 @@
-# 출제 의도
-1. 라이프 사이클에 대해서 알고있는가?
-2. Side effect 에 대해서 생각을 하는가?
 # 정답 (주관적인 생각)
+
 라이프 사이클에서는 `shouldComponentUpdate` 가 존재한다.
 
 리턴값이 true, false 임에 따라서 re-rendering 이 진행되는데, nextProps, nextState 값을 paramter 로 받게된다.

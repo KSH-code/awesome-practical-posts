@@ -1,10 +1,10 @@
-# 출제 의도
-1. Webpack 을 사용 해보았는가?
-2. 사용하는 이유를 아는가?
 ## 문제
+
 Q1. 웹팩은 무엇인가요?
 Q2. 웹팩은 왜 사용 하나요?
+
 ## 정답
+
 <details><summary>Q1. 답</summary>
 <pre>
 웹팩은 최신의 Javascript application 을 static module bundler 입니다.

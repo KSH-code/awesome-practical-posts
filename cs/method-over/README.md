@@ -1,8 +1,7 @@
-# 출제 의도
-1. 용어를 알고 있는가?
-2. 기본 지식이 있는가?
 ## 문제
+
 Q1. 간단하게 method overriding 과 method overloading 의 차이점을 설명하시오.
+
 <details><summary>Q1. 답</summary>
 <pre>
 --- Method overriding ---
