@@ -1,6 +1,3 @@
-1. 진법 변환 [세부 링크](algorithm-problems/2/README.md)
-2. 철수와 영희 [세부 링크](algorithm-problems/1/README.md)
-
 # 입력되지 않은 숫자의 개수를 구하기
 
 ## 제약조건
