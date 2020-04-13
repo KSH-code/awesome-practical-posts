@@ -8,6 +8,8 @@
 
 ### [운영체제](operating-system.md)
 
+### [자료구조](data-structure.md)
+
 ### [재미로 만든 알고리즘 문제](algorithm-problems.md)
 
 # [이전 문서](archive/README.md)
