@@ -8,7 +8,7 @@
 2. malloc(10) 은 왜 10 bytes 만 사용하는 것이 아닌 need size more than 10 bytes 인지 설명해주세요.
 3. Segment Register values 의 Protection bit 이 Read-Execute 인 경우는 어떠한 영역인지 뜻하며, code sharing 을 하는지 설명해주세요.
    1. 왜 Read-Execute 만 허용할까요?
-4. 여러 프로세스가 실행 중이며 Virtualizing memory 를 Paging 방식을 이용해서 한다면 context switch 를 하게될 때 무슨 문제가 발생하게 될까요?
+4. Paging 방식을 이용하고 TLB 를 이용한다면 context switch 를 하게될 때 어떤 overhead 발생하게 될까요?
    1. 해결하기 위해서는 어떠한 기법들이 있을까요?
 
 # 몰라도 되는 내용
