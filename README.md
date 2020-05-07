@@ -6,7 +6,7 @@
 - 알면 좋은 내용
 - 몰라도 되는 내용
 
-### [운영체제](operating-system.md)
+### [운영체제](operating-system.md) -> [운영체제 정답](operating-system-result.md)
 
 ### [자료구조](data-structure.md)
 
