@@ -3,6 +3,7 @@
 1. Virtualizing memory 를 Paging 방식을 이용하고 별다른 캐싱을 이용하지 않을 때 발생하는 문제점은 무엇이며 이를 극복하기 위해 MMU 에 어떠한 Chip 을 이용하는지 설명해주세요.
 2. File 을 실행 중일 때 해당 파일을 수정할 수 없는 이유는 무엇인가요?
 3. a = a + 1 이 race condition 을 발생시키는 이유는 무엇인가요? 레지스터는 여유가 없는 상황 즉, volatile variable 임을 가정합니다.
+4. semaphore 가 condition variable 이 해결하지 못하는 문제를 해결할 수 있는 상황은 무엇인가요?
 
 # 알면 좋은 내용
 
