@@ -5,6 +5,7 @@
 3. a = a + 1 이 race condition 을 발생시키는 이유는 무엇인가요? 레지스터는 여유가 없는 상황 즉, volatile variable 임을 가정합니다.
 4. semaphore 가 condition variable 이 해결하지 못하는 문제를 해결할 수 있는 상황은 무엇인가요?
 5. mutex lock, condition variable, semaphore 의 차이는 무엇인가요?
+6. event 기반 프로세스의 특징은 무엇인가요?
 
 # 알면 좋은 내용
 
