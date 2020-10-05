@@ -22,4 +22,4 @@
 - [Ruby 2.8 adds endless method definition](https://blog.bigbinary.com/2020/09/15/ruby-2-8-adds-endless-method-definition.html)
   - Ruby 가 버전 2.8 로 되면서 생긴 문법
 
-## [이전 문서](archive/README-prev.md)
+## [이전 문서](archive/README.md)
