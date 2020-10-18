@@ -5,6 +5,10 @@
 
 ## For Interview
 
+- [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+  - 요즘 사용하는 아키텍쳐들에 대한 소개
+- [JavaScript Interview Questions: Functions](https://codeburst.io/javascript-interview-questions-functions-5a3081c1f3f5)
+  - js 관련한 면접질문들, 어려움.
 - [npm vs Yarn — Choosing the right package manager](https://medium.com/javascript-in-plain-english/npm-vs-yarn-choosing-the-right-package-manager-a5f04256a93f)
   - npm 과 yarn 의 차이를 소개함
   - yarn 이 좋다고 소개하는 글 같음
@@ -26,6 +30,12 @@
 
 ## ETC
 
+- [Frameworks will never be as fast as Vanilla JavaScript](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-60f71d321693)
+  - Vanilla JS 를 사용하지 않는 이유들에 대해 설명
+- [6 Tips to Improve Your Conditional Statements for Better Readability](https://medium.com/javascript-in-plain-english/6-tips-to-improve-your-conditional-statements-for-better-readability-56256c5a5245)
+  - 당연하게 사용되는 if..else 지옥을 제거하는 방법
+- [Software Architectural Thinking for Developers [Part 1]](https://dev.to/edisonnpebojot/software-architectural-thinking-for-developers-part-1-2a34)
+  - 솔직히 무슨 얘기가 하고 싶은지는 아직 파트1이라 그런지 잘 모르겠다. 그래도 흥미로운 내용이라 볼만하다.
 - [3 Books to Improve Your Coding Skills](https://medium.com/better-programming/3-books-to-improve-your-coding-skills-afa67621192)
   - algorithm, engineering, functional thinking 에 대한 책을 소개하는데
   - engineering 은 code complete 을 소개하고 있고 책들을 검색하니 괜찮아 보임
