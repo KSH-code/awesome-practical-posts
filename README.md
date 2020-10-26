@@ -6,8 +6,7 @@
 ## For Interview
 
 - [Backpropagation paper from scratch](https://towardsdatascience.com/backpropagation-paper-from-scratch-796793789248)
-  - Backpropagation 에 대한 설명을 일반화하여 함
-  - 해당 내용을 모르는 상태에서 본다면 이해가 되지 않을 것임
+  - Backpropagation 에 대한 설명을 델타 규칙을 일반화하여 함
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
   - 요즘 사용하는 아키텍쳐들에 대한 소개
 - [JavaScript Interview Questions: Functions](https://codeburst.io/javascript-interview-questions-functions-5a3081c1f3f5)
@@ -33,6 +32,8 @@
 
 ## ETC
 
+- [Understanding Markov Chains and Stationary Distribution](https://www.reddit.com/r/learnmachinelearning/comments/jhtbqk/understanding_markov_chains_and_stationary)
+  - 마코브체인에 대한 설명을 영상으로 해줘서 보기 편함
 - [4 Principles When Refactoring Your Functions](https://medium.com/better-programming/4-principles-when-refactoring-your-functions-81ce7f365e6d)
   - 함수를 리팩토링할 때의 4가지 원칙
   - 대략 어떤 느낌일 때 리팩토링해야 될지 알게 해주는데, 현실세계의 코딩은 예외사항도 있으니 적절히 구분해야된다.
