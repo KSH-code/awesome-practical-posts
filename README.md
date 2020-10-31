@@ -32,6 +32,11 @@
 
 ## ETC
 
+- Parallelism
+  - [Wikipedia Green Thread](https://en.wikipedia.org/wiki/Green_threads)
+  - [D언어의 fiber 설명](https://tour.dlang.org/tour/kr/multithreading/fibers)
+  - [Ruby의 fiber 설명](https://weicomes.tistory.com/100)
+  - [Wikipedia Coroutine](https://en.wikipedia.org/wiki/Coroutine#Implementations_for_Scala)
 - [Understanding Markov Chains and Stationary Distribution](https://www.reddit.com/r/learnmachinelearning/comments/jhtbqk/understanding_markov_chains_and_stationary)
   - 마코브체인에 대한 설명을 영상으로 해줘서 보기 편함
 - [4 Principles When Refactoring Your Functions](https://medium.com/better-programming/4-principles-when-refactoring-your-functions-81ce7f365e6d)
