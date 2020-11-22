@@ -6,6 +6,11 @@
 
 ## Ruby
 
+- [Fun with Ruby method argument defaults](https://zverok.github.io/blog/2020-11-19-arg_defaults.html)
+  - default argument 를 활용할 수 있는 다양한 사례 소개
+- [Peter's Adventures in Ruby: The Ruby inplace bug](https://blog.peterzhu.ca/ruby-inplace-bug/)
+  - 루비의 문자열 inplace change 에 대한 버그가 있었는데 고친 내용
+  - 루비가 어떻게 동작하는지 잘 이해하지 못해서 잘 이해하지 못했다.
 - [Currency Calculations in Ruby](https://www.honeybadger.io/blog/ruby-currency/)
   - 실제 수와 통화에는 오차가 있으니 이를 해결하는 여러가지의 방법을 소개한다.
 - [Rails 6.1 deprecates rails db:structure:dump and rails db:structure:load](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
@@ -34,10 +39,23 @@
 
 ## Architecture
 
+- [Microservice Architecture — Communication & Design Patterns](https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294)
+  - 딱히 정리할 내용이 없음
+- [Everything A Developer Must Know About Microservices](https://medium.com/dev-genius/everything-a-developer-must-know-about-microservices-dae854782ab)
+
+  - SDLC: Software Development Life Cycle
+  - [SOA vs. MSA](https://www.ibm.com/cloud/blog/soa-vs-microservices)
+  - [ESB](https://www.ibm.com/cloud/learn/esb)
+  - [SOAP](https://www.redhat.com/ko/topics/integration/whats-the-difference-between-soap-rest)
+    - [보안](https://www.redhat.com/ko/topics/security/api-security)
+
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Data Science
 
+- [Understanding ReLU: The Most Popular Activation Function in 5 Minutes!](https://towardsdatascience.com/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f)
+  - 다른 활성함수(tanh, sigmoid)들에 비해 값이 클수록 기울기가 사라지는 현상이 없다. ReLU 는 max(0, output) 이기 때문이다.
+  - 다만 음수, 0에서는 값이 아예 없는 문제가 있기는 한데 오히려 장점이 될 수 있으니 알아서 잘판단해야 되고 ReLU 변형 버전이 많다.
 - [Backpropagation paper from scratch](https://towardsdatascience.com/backpropagation-paper-from-scratch-796793789248)
   - Backpropagation 에 대한 설명을 델타 규칙을 일반화하여 함
 - [The Facebook Data Engineer Interview](https://towardsdatascience.com/the-facebook-data-engineer-interview-345235afaac0)
@@ -58,6 +76,8 @@
 
 ## Refactoring
 
+- [5 Rules to Improve Code Readability](https://medium.com/better-programming/5-rules-to-improve-code-readability-83eda50ca780)
+  - 리팩토링 관련 글은 시간날 때마다 읽고 항상 다른 관점에서 보는 것이 중요한 것 같다.
 - [4 Principles When Refactoring Your Functions](https://medium.com/better-programming/4-principles-when-refactoring-your-functions-81ce7f365e6d)
   - 함수를 리팩토링할 때의 4가지 원칙
   - 대략 어떤 느낌일 때 리팩토링해야 될지 알게 해주는데, 현실세계의 코딩은 예외사항도 있으니 적절히 구분해야된다.
