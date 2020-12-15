@@ -6,6 +6,8 @@
 
 ## Ruby
 
+- [The Evolution of Ruby Strings from 1.8 to 2.7](https://medium.com/rubycademy/the-evolution-of-ruby-strings-from-1-8-to-2-5-8b2ed8f39fad)
+  - 루비 문자열의 변천사
 - [Fun with Ruby method argument defaults](https://zverok.github.io/blog/2020-11-19-arg_defaults.html)
   - default argument 를 활용할 수 있는 다양한 사례 소개
 - [Peter's Adventures in Ruby: The Ruby inplace bug](https://blog.peterzhu.ca/ruby-inplace-bug/)
@@ -90,12 +92,16 @@
 
 ## Web
 
+- [How to View Your Live Localhost From Your Laptop on Your Mobile Device](dev.to/brendamichellle/how-to-view-your-localhost-from-your-laptop-on-your-mobile-device-516c)
+  - vs code 를 이용해서 서버를 쉽게 여는 방법
 - [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
   - Caddy 라는 것이 존재하는지 알 수 있는 글
   - [대충 caddy vs nginx](https://stackshare.io/stackups/caddy-vs-nginx)를 요약하면 사용성 vs 성능인 것 같다.
 
 ## Others
 
+- [THERE'S ALWAYS MORE HISTORY](https://www.hillelwayne.com/post/always-more-history)
+  - 재밌는 역사, 프로그래밍에 관한 것
 - [3 Books to Improve Your Coding Skills](https://medium.com/better-programming/3-books-to-improve-your-coding-skills-afa67621192)
   - algorithm, engineering, functional thinking 에 대한 책을 소개하는데
   - engineering 은 code complete 을 소개하고 있고 책들을 검색하니 괜찮아 보임
