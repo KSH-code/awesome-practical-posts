@@ -6,6 +6,10 @@
 
 ## Ruby
 
+- [Refactoring checklist for beautiful Ruby code](https://dev.to/junko911/refactoring-checklist-for-beautiful-ruby-code-175c)
+  - 깃허브가 어떻게 Ruby on Rails 를 이용하며 view test 를 했는가? 와 레일즈 버전 변경에 대한 소개
+- [Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
+  - 깃허브가 어떻게 Ruby on Rails 를 이용하며 view test 를 했는가? 와 레일즈 버전 변경에 대한 소개
 - [The Evolution of Ruby Strings from 1.8 to 2.7](https://medium.com/rubycademy/the-evolution-of-ruby-strings-from-1-8-to-2-5-8b2ed8f39fad)
   - 루비 문자열의 변천사
 - [Fun with Ruby method argument defaults](https://zverok.github.io/blog/2020-11-19-arg_defaults.html)
@@ -41,6 +45,8 @@
 
 ## Architecture
 
+- [You Aren’t Gonna Need Microservices](https://blog.ttulka.com/you-are-not-gonna-need-microservices)
+  - YAGNI 를 이용해서 MSA 가 불필요한 이유를 설명
 - [Microservice Architecture — Communication & Design Patterns](https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294)
   - 딱히 정리할 내용이 없음
 - [Everything A Developer Must Know About Microservices](https://medium.com/dev-genius/everything-a-developer-must-know-about-microservices-dae854782ab)
@@ -78,6 +84,8 @@
 
 ## Refactoring
 
+- [소프트웨어 개발 3대 원칙 : KISS, YAGNI, DRY](https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=221163007357)
+  - 제목이 곧 내용.
 - [5 Rules to Improve Code Readability](https://medium.com/better-programming/5-rules-to-improve-code-readability-83eda50ca780)
   - 리팩토링 관련 글은 시간날 때마다 읽고 항상 다른 관점에서 보는 것이 중요한 것 같다.
 - [4 Principles When Refactoring Your Functions](https://medium.com/better-programming/4-principles-when-refactoring-your-functions-81ce7f365e6d)
