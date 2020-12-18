@@ -108,6 +108,8 @@
 
 ## Others
 
+- [질문하는 방법](https://xyproblem.info/)
+  - 제곧내
 - [THERE'S ALWAYS MORE HISTORY](https://www.hillelwayne.com/post/always-more-history)
   - 재밌는 역사, 프로그래밍에 관한 것
 - [3 Books to Improve Your Coding Skills](https://medium.com/better-programming/3-books-to-improve-your-coding-skills-afa67621192)
