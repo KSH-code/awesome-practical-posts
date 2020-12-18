@@ -7,7 +7,7 @@
 ## Ruby
 
 - [Refactoring checklist for beautiful Ruby code](https://dev.to/junko911/refactoring-checklist-for-beautiful-ruby-code-175c)
-  - 깃허브가 어떻게 Ruby on Rails 를 이용하며 view test 를 했는가? 와 레일즈 버전 변경에 대한 소개
+  - 루비의 기본적인 다른 언어들과는 다른 문법 이용해서 리팩토링하는 방법 소개
 - [Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
   - 깃허브가 어떻게 Ruby on Rails 를 이용하며 view test 를 했는가? 와 레일즈 버전 변경에 대한 소개
 - [The Evolution of Ruby Strings from 1.8 to 2.7](https://medium.com/rubycademy/the-evolution-of-ruby-strings-from-1-8-to-2-5-8b2ed8f39fad)
