@@ -46,76 +46,65 @@
 ## Architecture
 
 - [You Aren’t Gonna Need Microservices](https://blog.ttulka.com/you-are-not-gonna-need-microservices)
-  - YAGNI 를 이용해서 MSA 가 불필요한 이유를 설명
+  - Explain why modern architecture does not need MSA with YANGI.
 - [Microservice Architecture — Communication & Design Patterns](https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294)
-  - 딱히 정리할 내용이 없음
 - [Everything A Developer Must Know About Microservices](https://medium.com/dev-genius/everything-a-developer-must-know-about-microservices-dae854782ab)
 
   - SDLC: Software Development Life Cycle
   - [SOA vs. MSA](https://www.ibm.com/cloud/blog/soa-vs-microservices)
   - [ESB](https://www.ibm.com/cloud/learn/esb)
   - [SOAP](https://www.redhat.com/ko/topics/integration/whats-the-difference-between-soap-rest)
-    - [보안](https://www.redhat.com/ko/topics/security/api-security)
+    - [Security](https://www.redhat.com/ko/topics/security/api-security)
 
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Data Science
 
 - [Understanding ReLU: The Most Popular Activation Function in 5 Minutes!](https://towardsdatascience.com/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f)
-  - 다른 활성함수(tanh, sigmoid)들에 비해 값이 클수록 기울기가 사라지는 현상이 없다. ReLU 는 max(0, output) 이기 때문이다.
-  - 다만 음수, 0에서는 값이 아예 없는 문제가 있기는 한데 오히려 장점이 될 수 있으니 알아서 잘판단해야 되고 ReLU 변형 버전이 많다.
+  - Pros and Cons of ReLU
 - [Backpropagation paper from scratch](https://towardsdatascience.com/backpropagation-paper-from-scratch-796793789248)
-  - Backpropagation 에 대한 설명을 델타 규칙을 일반화하여 함
+  - The post generalizes backpropagation using delta rule.
 - [The Facebook Data Engineer Interview](https://towardsdatascience.com/the-facebook-data-engineer-interview-345235afaac0)
-  - Facebook 의 Data Engineering role 에 대한 interview question 을 간략히 소개하고
-  - Facebook interview 를 준비하는 사람들에게 도움을 어느정도 줄 것 같다.
-  - 그냥 슥 훑어보는 정도, deep 한 내용을 소개하지는 않아서 많이 도움되지는 않을듯함
-  - 요즘 사용하는 아키텍쳐들에 대한 소개
 - [Understanding Markov Chains and Stationary Distribution](https://www.reddit.com/r/learnmachinelearning/comments/jhtbqk/understanding_markov_chains_and_stationary)
-  - 마코브체인에 대한 설명을 영상으로 해줘서 보기 편함
 
 ## Basic CS
 
 - Parallelism
   - [Wikipedia Green Thread](https://en.wikipedia.org/wiki/Green_threads)
-  - [D언어의 fiber 설명](https://tour.dlang.org/tour/kr/multithreading/fibers)
-  - [Ruby의 fiber 설명](https://weicomes.tistory.com/100)
+  - [D langauge fiber explanation](https://tour.dlang.org/tour/kr/multithreading/fibers)
+  - [Ruby fiber explanation](https://weicomes.tistory.com/100)
   - [Wikipedia Coroutine](https://en.wikipedia.org/wiki/Coroutine#Implementations_for_Scala)
 
 ## Refactoring
 
 - [소프트웨어 개발 3대 원칙 : KISS, YAGNI, DRY](https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=221163007357)
-  - 제목이 곧 내용.
+  - Korean post is 3 principles of software development.
 - [5 Rules to Improve Code Readability](https://medium.com/better-programming/5-rules-to-improve-code-readability-83eda50ca780)
-  - 리팩토링 관련 글은 시간날 때마다 읽고 항상 다른 관점에서 보는 것이 중요한 것 같다.
+  - All of posts about refactoring are going to be read.
 - [4 Principles When Refactoring Your Functions](https://medium.com/better-programming/4-principles-when-refactoring-your-functions-81ce7f365e6d)
-  - 함수를 리팩토링할 때의 4가지 원칙
-  - 대략 어떤 느낌일 때 리팩토링해야 될지 알게 해주는데, 현실세계의 코딩은 예외사항도 있으니 적절히 구분해야된다.
+  - Four princples when refactoring, but real technology is complicate. so we need to select method empirically.
 - [50 Quotes for Better Coding](https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234)
-  - 좋은 코드를 작성하기 위한 50개의 조언
 - [6 Tips to Improve Your Conditional Statements for Better Readability](https://medium.com/javascript-in-plain-english/6-tips-to-improve-your-conditional-statements-for-better-readability-56256c5a5245)
-  - 당연하게 사용되는 if..else 지옥을 제거하는 방법
+  - The post explains I naturally use method of refactoring if..elsif
 - [Software Architectural Thinking for Developers [Part 1]](https://dev.to/edisonnpebojot/software-architectural-thinking-for-developers-part-1-2a34)
-  - 솔직히 무슨 얘기가 하고 싶은지는 아직 파트1이라 그런지 잘 모르겠다. 그래도 흥미로운 내용이라 볼만하다.
+  - In my opinion, I don't know what he's saying but it was intersting.
 
 ## Web
 
 - [How to View Your Live Localhost From Your Laptop on Your Mobile Device](dev.to/brendamichellle/how-to-view-your-localhost-from-your-laptop-on-your-mobile-device-516c)
-  - vs code 를 이용해서 서버를 쉽게 여는 방법
-- [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
-  - Caddy 라는 것이 존재하는지 알 수 있는 글
-  - [대충 caddy vs nginx](https://stackshare.io/stackups/caddy-vs-nginx)를 요약하면 사용성 vs 성능인 것 같다.
+  - Easy way to test mobile web using local server on VSCode.
+- ## [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
+  - [Caddy vs. Nginx](https://stackshare.io/stackups/caddy-vs-nginx) summary: performanec or usability.
 
 ## Others
 
-- [질문하는 방법](https://xyproblem.info/)
-  - 제곧내
+- [The XY Problem](https://xyproblem.info/)
+  - How to question a problem clear.
 - [THERE'S ALWAYS MORE HISTORY](https://www.hillelwayne.com/post/always-more-history)
-  - 재밌는 역사, 프로그래밍에 관한 것
+  - Deep dive into the funny histories.
 - [3 Books to Improve Your Coding Skills](https://medium.com/better-programming/3-books-to-improve-your-coding-skills-afa67621192)
-  - algorithm, engineering, functional thinking 에 대한 책을 소개하는데
-  - engineering 은 code complete 을 소개하고 있고 책들을 검색하니 괜찮아 보임
+  - Recommended books about Algoirthm, Engineering and Functional Thinking
 - [5 Signs of a Senior Developer](https://levelup.gitconnected.com/5-signs-of-a-senior-developer-7f5c59093c73)
-  - 시니어 개발자와 주니어 개발자의 차이를 간략하게 소개
+  - The difference between senior developer and junior developer.
 
 ## [이전 문서](archive/README.md)
