@@ -80,7 +80,7 @@
 
 - [How to View Your Live Localhost From Your Laptop on Your Mobile Device](dev.to/brendamichellle/how-to-view-your-localhost-from-your-laptop-on-your-mobile-device-516c)
   - Easy way to test mobile web using local server on VSCode.
-- ## [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
+- [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
   - [Caddy vs. Nginx](https://stackshare.io/stackups/caddy-vs-nginx) summary: performanec or usability.
 
 ## Others
