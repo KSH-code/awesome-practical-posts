@@ -85,6 +85,8 @@
 
 ## Others
 
+- [Web Developers Outlook](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-6)
+  - From 2019 to 2029, employing web developer will be grwoing 8 percents.
 - [The XY Problem](https://xyproblem.info/)
   - How to question a problem clear.
 - [THERE'S ALWAYS MORE HISTORY](https://www.hillelwayne.com/post/always-more-history)
