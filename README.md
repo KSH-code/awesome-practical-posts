@@ -6,6 +6,8 @@
 
 ## Ruby
 
+- [Hidden cost of string indexing in Ruby](https://www.greyblake.com/blog/2020-12-21-hidden-cost-of-string-indexing-in-ruby/)
+  - Actually, ruby is not always O(1) to use index of string.
 - [Refactoring checklist for beautiful Ruby code](https://dev.to/junko911/refactoring-checklist-for-beautiful-ruby-code-175c)
 - [Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
 - [The Evolution of Ruby Strings from 1.8 to 2.7](https://medium.com/rubycademy/the-evolution-of-ruby-strings-from-1-8-to-2-5-8b2ed8f39fad)
