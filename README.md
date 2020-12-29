@@ -6,6 +6,12 @@
 
 ## Ruby
 
+- [JIT and Ruby's MJIT](https://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit)
+  - Simple introduction how ruby implemenets JIT. More details are going to be explained another link.
+- [Ruby 3 is released - The list of Ruby 3 features](https://bigbinary.com/blog/ruby-3-features)
+  - Ruby 3 was released and introduced new features.
+- [MJIT Support in Ruby 2.6](https://bigbinary.com/blog/mjit-support-in-ruby-2-6)
+  - Since ruby 2.6, it supports MJIT which is called JIT. JIT of Ruby is too important to optimmize.
 - [Hidden cost of string indexing in Ruby](https://www.greyblake.com/blog/2020-12-21-hidden-cost-of-string-indexing-in-ruby/)
   - Actually, ruby is not always O(1) to use index of string.
 - [Refactoring checklist for beautiful Ruby code](https://dev.to/junko911/refactoring-checklist-for-beautiful-ruby-code-175c)
