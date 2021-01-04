@@ -86,6 +86,10 @@
 
 ## Web
 
+- [Back/forward cache](https://web.dev/bfcache/#optimize-your-pages-for-bfcache)
+  - Bfcache is important for usability. it explains how to use bfcache simple.
+- [Detached window memory leaks](https://web.dev/detached-window-memory-leaks/)
+  - Intersting things of Vaninlla JS about memory leak occurs.
 - [How to View Your Live Localhost From Your Laptop on Your Mobile Device](dev.to/brendamichellle/how-to-view-your-localhost-from-your-laptop-on-your-mobile-device-516c)
   - Easy way to test mobile web using local server on VSCode.
 - [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
@@ -93,6 +97,8 @@
 
 ## Others
 
+- [MVC vs MVP vs MVVM](https://levelup.gitconnected.com/mvc-vs-mvp-vs-mvvm-35e0d4b933b4)
+  - The fun fact is most application codes do not use that clear. so just to know what that mean is not important.
 - [Web Developers Outlook](https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-6)
   - From 2019 to 2029, employing web developer will be grwoing 8 percents.
 - [The XY Problem](https://xyproblem.info/)
