@@ -40,6 +40,8 @@
 
 ## Architecture
 
+- [System Design 101](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
+  - This article makes me to remind what is the important things construct architecture such as network bandwidth and etc..
 - [You Aren’t Gonna Need Microservices](https://blog.ttulka.com/you-are-not-gonna-need-microservices)
   - Explain why modern architecture does not need MSA with YANGI.
 - [Microservice Architecture — Communication & Design Patterns](https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294)
