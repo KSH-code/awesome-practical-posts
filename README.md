@@ -41,7 +41,7 @@
 ## Architecture
 
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
-  - Using idempotency key which idea is good solution for me now. and to seperate into three phases internal logics using RPC is good. isn't it?
+  - Using idempotency key which idea is good solution for me now. and to seperate internal logics into three phases using RPC is good. isn't it?
 - [System Design 101](https://towardsdatascience.com/system-design-101-b8f15162ef7c)
   - This article makes me to remind what is the important things construct architecture such as network bandwidth and etc..
 - [You Aren’t Gonna Need Microservices](https://blog.ttulka.com/you-are-not-gonna-need-microservices)
