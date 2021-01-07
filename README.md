@@ -5,8 +5,6 @@
 
 ## 2021.01.07.
 
-### Architecture
-
 - [How Can We Measure Our Software’s Modularity and Dependencies?](https://medium.com/better-programming/inside-software-modularity-and-related-metrics-2e5af2b447dc)
   - It makes me to think about modularity via discrete mathematics.
   - Since cohensive and coupling are important to maintain, I should use method that explaind by post.
