@@ -1,10 +1,22 @@
-# 목적
+## Purpose
 
-- 2020.11.22. Plan: I am going to share posts I read with summary.
-- 두 번째 변경 목적: 내가 면접관이라면 할만한 질문들, 전공자들이 수업에서 배우는 내용들을 정리해서 공유
-- 첫 번째 생성 목적: 내가 직접 면접을 보며 받은 질문 및 질문으로 낼만한 질문들을 정리해서 공유
+- 2021.01.07. I am going to share Posts are grouped by date that I read.
+- 2020.11.22. I am going to share posts I read with summary.
 
-## Ruby
+## 2021.01.07.
+
+### Architecture
+
+- [How Can We Measure Our Software’s Modularity and Dependencies?](https://medium.com/better-programming/inside-software-modularity-and-related-metrics-2e5af2b447dc)
+  - It makes me to think about modularity via discrete mathematics.
+  - Since cohensive and coupling are important to maintain, I shoulld use method that explaind by post.
+- [Microservices Architecture From A to Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28)
+  - Microservice architecture is one of the most shared techinique and hot nowdays maybe.
+  - The post explains how to use simple and detail.
+
+## Before
+
+### Ruby
 
 - [JIT and Ruby's MJIT](https://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit)
   - Simple introduction how ruby implemenets JIT. More details are going to be explained another link.
@@ -23,7 +35,7 @@
 - [Rails 6.1 deprecates rails db:structure:dump and rails db:structure:load](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
 - [Ruby 2.8 adds endless method definition](https://blog.bigbinary.com/2020/09/15/ruby-2-8-adds-endless-method-definition.html)
 
-## JS
+### JS
 
 - [JavaScript Interview Questions: Functions](https://codeburst.io/javascript-interview-questions-functions-5a3081c1f3f5)
 - [npm vs Yarn — Choosing the right package manager](https://medium.com/javascript-in-plain-english/npm-vs-yarn-choosing-the-right-package-manager-a5f04256a93f)
@@ -38,7 +50,7 @@
 - [Frameworks will never be as fast as Vanilla JavaScript](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-60f71d321693)
   - Explain why Vanilla JS has not been used alone.
 
-## Architecture
+### Architecture
 
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
   - Using idempotency key which idea is good solution for me now. and to seperate internal logics into three phases using RPC is good. isn't it?
@@ -57,7 +69,7 @@
 
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
-## Data Science
+### Data Science
 
 - [Understanding ReLU: The Most Popular Activation Function in 5 Minutes!](https://towardsdatascience.com/understanding-relu-the-most-popular-activation-function-in-5-minutes-459e3a2124f)
   - Pros and Cons of ReLU
@@ -66,7 +78,7 @@
 - [The Facebook Data Engineer Interview](https://towardsdatascience.com/the-facebook-data-engineer-interview-345235afaac0)
 - [Understanding Markov Chains and Stationary Distribution](https://www.reddit.com/r/learnmachinelearning/comments/jhtbqk/understanding_markov_chains_and_stationary)
 
-## Basic CS
+### Basic CS
 
 - Parallelism
   - [Wikipedia Green Thread](https://en.wikipedia.org/wiki/Green_threads)
@@ -74,7 +86,7 @@
   - [Ruby fiber explanation](https://weicomes.tistory.com/100)
   - [Wikipedia Coroutine](https://en.wikipedia.org/wiki/Coroutine#Implementations_for_Scala)
 
-## Refactoring
+### Refactoring
 
 - [소프트웨어 개발 3대 원칙 : KISS, YAGNI, DRY](https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=221163007357)
   - Korean post is 3 principles of software development.
@@ -88,7 +100,7 @@
 - [Software Architectural Thinking for Developers [Part 1]](https://dev.to/edisonnpebojot/software-architectural-thinking-for-developers-part-1-2a34)
   - In my opinion, I don't know what he's saying but it was intersting.
 
-## Web
+### Web
 
 - [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/)
   - Basic ways to optimize http request cost.
@@ -101,7 +113,7 @@
 - [Goodbye Nginx, hello Caddy](https://blog.bigbinary.com/2020/09/22/rails-6-1-deprecates-rails-db-structure-dump.html)
   - [Caddy vs. Nginx](https://stackshare.io/stackups/caddy-vs-nginx) summary: performanec or usability.
 
-## Others
+### Others
 
 - [MVC vs MVP vs MVVM](https://levelup.gitconnected.com/mvc-vs-mvp-vs-mvvm-35e0d4b933b4)
   - The fun fact is most application codes do not use that clear. so just to know what that mean is not important.
@@ -116,4 +128,4 @@
 - [5 Signs of a Senior Developer](https://levelup.gitconnected.com/5-signs-of-a-senior-developer-7f5c59093c73)
   - The difference between senior developer and junior developer.
 
-## [이전 문서](archive/README.md)
+### [이전 문서](archive/README.md)
