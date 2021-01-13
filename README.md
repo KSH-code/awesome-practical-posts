@@ -3,6 +3,13 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.01.13.
+
+- [Mocking in Ruby with Minitest](https://semaphoreci.com/community/tutorials/mocking-in-ruby-with-minitest)
+  - You guys know what the test doubles are? If no, this post explains simple examples.
+  - [Behavior-driven Development](https://semaphoreci.com/community/tutorials/behavior-driven-development)
+    - If you are intersted in to improve test code, would be good to read along with it. I recommend.
+
 ## 2021.01.07.
 
 - [How Can We Measure Our Software’s Modularity and Dependencies?](https://medium.com/better-programming/inside-software-modularity-and-related-metrics-2e5af2b447dc)
