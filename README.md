@@ -14,7 +14,7 @@
 
 - [How Can We Measure Our Software’s Modularity and Dependencies?](https://medium.com/better-programming/inside-software-modularity-and-related-metrics-2e5af2b447dc)
   - It makes me to think about modularity via discrete mathematics.
-  - Since cohensive and coupling are important to maintain, I should use method that explaind by post.
+  - Since cohesive and coupling are important to maintain, I should use method that explaind by post.
 - [Microservices Architecture From A to Z](https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28)
   - Microservice architecture is one of the most shared techinique and hot nowdays maybe.
   - The post explains how to use simple and detail.
