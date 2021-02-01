@@ -9,6 +9,8 @@
   - [Futher article](https://github.com/rails/rails/commit/3756a3fdfe8d339a53bf347487342f93fd9e1edb)
   - It does not post. but it is important to think what rails core developers' think.
   - And make a deep think predicate methods.
+  - [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/6/)
+    - However, this post says predicate methods can return true or false. so I'm confusing now.
 
 ## 2021.01.13.
 
