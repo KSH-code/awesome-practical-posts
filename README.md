@@ -3,6 +3,13 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.02.01.
+
+- [Ruby on Rails about Predicate](https://github.com/rails/rails/pull/5329)
+  - [Futher article](https://github.com/rails/rails/commit/3756a3fdfe8d339a53bf347487342f93fd9e1edb)
+  - It does not post. but it is important to think what rails core developers' think.
+  - And make a deep think predicate methods.
+
 ## 2021.01.13.
 
 - [Mocking in Ruby with Minitest](https://semaphoreci.com/community/tutorials/mocking-in-ruby-with-minitest)
