@@ -11,6 +11,7 @@
   - And make a deep think predicate methods.
   - [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/6/)
     - However, this post says predicate methods can return true or false. so I'm confused now.
+    - Finally, I've realized good to use predicate method'd be return only true and false because of usability and for documenting. as you know nil is unexpected value.
 
 ## 2021.01.13.
 
