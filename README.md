@@ -3,6 +3,16 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.03.05.
+
+- [What does the other user using Ruby thinks of harder test](https://anthonysciamanna.com/2016/02/14/should-private-methods-be-tested.html)
+  - Private method tested means to be complicated software and might be violated SRP. It says that to solve method is refactoring. But test would then be test still complicated. Hence says again that could be solved by stub or mock.
+  - By the way, it may make following question. What are stub and mock? so is it appropriate solution? and in TDD can use that? does?
+  - Martin Fowler(a.k.a Unkle Bob) introduces [what is the unit test?](https://martinfowler.com/bliki/UnitTest.html) and differences between [classical testing and mockist testing](https://martinfowler.com/articles/mocksArentStubs.html).
+    - It is helpful to understand that to use mock and stub might be appropriate in TDD.
+    - What I'm saying is that in tranditional TDD, test is only concerned about input and output. However to use stub and mock means that test code knows how such implemented. But mockist testing is allowed mock and stub in test code since unit test must be isolated.
+    - So, How am I supposed to choose? my answer is that it depends on.
+
 ## 2021.02.01.
 
 - [Ruby on Rails about Predicate](https://github.com/rails/rails/pull/5329)
