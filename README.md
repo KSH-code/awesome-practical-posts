@@ -18,9 +18,9 @@
 ## 2021.03.22.
 
 - [Ruby Garbage Collection Deep Dive: GC::INTERNAL_CONSTANTS](https://jemma.dev/blog/gc-internal)
-  - Technically, I don't think it that is telling as deep. but it is helpful to understand how GC works in basic.
+  - Technically, I don't think it that is saying as deep. but it is helpful to understand how GC works in basic.
   - In this post, also has good link [Visualizing Your Ruby Heap](https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html).
-    - It tells Ruby is using page address and its position. it is same idea OS how to manage memory.
+    - It says Ruby is using page address and its position. it is same idea OS how to manage memory.
     - so I remind that I have learned about OS. and I realize why Ruby uses HEAP_PAGE_OBJ_LIMIT as 409.
   - Finally, I can read [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep](https://jemma.dev/blog/gc-mark-and-sweep).
   - so those are not actul helpful coding technique now. but I think that are helpful in the future when I learn new technique.
