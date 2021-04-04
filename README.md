@@ -3,10 +3,22 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.04.04.
+
+- [Ruby Garbage Collection Deep Dive: Generational Garbage Collection](https://jemma.dev/blog/gc-generational)
+  - Again, this is saying GC.
+  - It explains GC generational such as young object and old object. I've not heared ever.
+  - Anyway, that also include many terms be good.
+  - I've understood what Minor GC is and Major GC is. However I want to know write barriers how actully works.
+  - so I did surf using many terms to know it. and finally I found [Peter's Adventures in Ruby: Garbage Collection in Ruby](https://blog.peterzhu.ca/notes-on-ruby-gc/).
+  - intersting! this explains a little about compaction and write barriers in detail. and also include another article [Incremental Garbage Collection in Ruby 2.2](https://blog.heroku.com/incremental-gc).
+  - sum-up, the first article is to summerize about GC, and the second article explains GC in detail using GC and many figures. the final article explains.
+  - the next step is reading [Copying Garbage Collection](https://www.cs.cornell.edu/courses/cs312/2003fa/lectures/sec24.htm) and understanding ruby GC.start how works.
+
 ## 2021.03.22.
 
 - [Ruby Garbage Collection Deep Dive: GC::INTERNAL_CONSTANTS](https://jemma.dev/blog/gc-internal)
-  - Actully, I don't think it that is telling as deep. but it is helpful to understand how GC works in basic.
+  - Technically, I don't think it that is telling as deep. but it is helpful to understand how GC works in basic.
   - In this post, also has good link [Visualizing Your Ruby Heap](https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html).
     - It tells Ruby is using page address and its position. it is same idea OS how to manage memory.
     - so I remind that I have learned about OS. and I realize why Ruby uses HEAP_PAGE_OBJ_LIMIT as 409.
