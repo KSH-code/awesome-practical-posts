@@ -3,6 +3,24 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.04.08.
+
+- [Beware of “service objects” in Rails](https://www.codewithjason.com/rails-service-objects/)
+  - today, I did not read articles about GC. but I was interested in.
+  - because I misbelieve service object in Rails, as you know too many classes created.
+  - to break down fat model is good for readability. but too many files incur similar problems.
+  - anyway, it says service object is not solution.
+  - and include good links to understand background.
+  - [Don't Create Objects That End With -ER](https://www.yegor256.com/2015/03/09/objects-end-with-er.html)
+  - [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
+    - I used to be hard to understand this. because of unfarmiliar terms.
+    - but the point is like service object is bad one.
+  - [Enough With the Service Objects Already](https://avdi.codes/service-objects/)
+  - [Martin Fowler on Service Objects via the Ruby Rogues Parley mailing list](https://gist.github.com/blaix/5764401)
+  - [How I code without service objects](https://www.codewithjason.com/code-without-service-objects/)
+  - [What is a Rails model?](https://www.codewithjason.com/what-is-a-rails-model/)
+  - too long, I can not sum-up.
+
 ## 2021.04.04.
 
 - [Ruby Garbage Collection Deep Dive: Generational Garbage Collection](https://jemma.dev/blog/gc-generational)
