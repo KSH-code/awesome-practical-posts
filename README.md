@@ -3,6 +3,18 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.04.29.
+
+- [Flaky Tests at Google and How We Mitigate Them](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html)
+  - Most of developers will probabaly be facing flaky test.
+  - this is about google's story that how they migrate.
+  - it is saying that system to monitor and for fast solve are important.
+- [Test Flakiness - One of the main challenges of automated testing](https://testing.googleblog.com/2020/12/test-flakiness-one-of-main-challenges.html)
+  - following post is saying about flaky causes.
+- [Test Flakiness - One of the main challenges of automated testing (Part II)](https://testing.googleblog.com/2021/03/test-flakiness-one-of-main-challenges.html)
+  - in now, last following post, is saying flaky causes.
+  - how to solve that and suggest guidelines.
+
 ## 2021.04.08.
 
 - [Beware of “service objects” in Rails](https://www.codewithjason.com/rails-service-objects/)
