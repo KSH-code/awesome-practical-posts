@@ -3,6 +3,21 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.05.31.
+
+- [What Is MJIT in Ruby 2.6 & How Does It Work?](https://www.rubyguides.com/2018/11/ruby-mjit/)
+  - It explains that MJIT is method based just in time compiler as simple.
+  - [A look at how Ruby interprets your code](https://blog.appsignal.com/2017/08/01/ruby-magic-code-interpretation.html)
+    - If you do not know about MJIT how it works, read this first. and you are into optimization, next up is [Tail Call Optimization in Ruby](https://nithinbekal.com/posts/ruby-tco/)
+      - TCO is really intersting to me.
+      - If you are intersted in algorithm problems, you may know TCO, is because stack overflow is occured in many recursion problems.
+  - Get back to MJIT, Koichi Sasada's report is intersting "YARV: Yet Another RubyVM". I don't know its copyright so I just share the title.
+  - Finally, we should know about MJIT. So what?
+  - The real important thing is Ruby may not be used without any library such as Rails.
+  - Ultimately, I was wondering if Ruby uses JIT, then RoR performance is better than that without JIT.
+  - [Ruby 3 JIT can make Rails faster](https://k0kubun.medium.com/ruby-3-jit-can-make-rails-faster-756310f235a) Here is helper to solve my problem.
+  - My conclusion is that we should not use RoR with JIT yet. Because it is unstable. However I think that metric of method usage would be better that it without JIT in the future.
+
 ## 2021.04.29.
 
 - [Flaky Tests at Google and How We Mitigate Them](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html)
