@@ -3,6 +3,36 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.07.15.
+- Too many articles I read so far so I can't sum-up. I just share now.
+- https://blog.saeloun.com/2020/02/10/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations
+- https://guides.rubyonrails.org/6_1_release_notes.html
+- https://brilliant.org/wiki/cuckoo-filter/
+- https://tech.flipkart.com/remodelling-flipkarts-serviceability-data-an-optimization-journey-from-300-gb-to-150-mb-in-memory-5c7e9c38bde
+- https://medium.com/building-panorama-education/introducing-memowise-51a5f0523489
+- https://www.bugsnag.com/blog/app-stability-overview-dashboard
+- https://blog.appsignal.com/category/rails-patterns-and-anti-patterns.html
+- https://longliveruby.com/articles/includes-method-in-rails
+- https://betterprogramming.pub/why-github-copilot-will-not-change-programming-1bef41f35f6d
+- https://developer.chrome.com/blog/renderingng/
+- https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d
+- https://medium.com/opendoor-labs/how-we-made-our-maps-10x-faster-e2fa1eaebc65
+- https://web.dev/learn/css/
+- https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction
+- https://blog.kiprosh.com/rails-7-activerecord-relation-load_async/
+- https://betterprogramming.pub/what-would-be-stack-overflows-future-after-this-1-8b-acquisition-607f50759699
+- https://www.computerminds.co.uk/articles/class-naming-javascript-development-drupal
+- https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
+- https://blog.close.com/saas-startups-why-your-free-trials-are-way-too-long/
+- https://towardsdatascience.com/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484
+- https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578
+- https://www.reddit.com/r/ruby/comments/nqlywb/yjit_building_a_new_jit_compiler_inside_cruby/
+- https://semver.org/
+- https://medium.com/google-developer-experts/how-to-pull-request-d75ac81449a5
+- https://javascript.plainenglish.io/9-hidden-features-of-chrome-devtools-78856b2a96de
+- https://www.bigbinary.com/blog/rails-6-1-adds-invert_where
+- and so on..
+
 ## 2021.05.31.
 
 - [What Is MJIT in Ruby 2.6 & How Does It Work?](https://www.rubyguides.com/2018/11/ruby-mjit/)
