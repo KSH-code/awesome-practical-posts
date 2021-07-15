@@ -1,7 +1,11 @@
 ## Purpose
 
+- 2021.07.15. From now on, I'll not sum-up because of no time to describe.
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
+
+## 2021.07.15. ~
+- https://medium.com/paypal-tech/pre-mortem-technically-working-backwards-1724eafbba02
 
 ## 2021.07.15.
 - Too many articles I read so far so I can't sum-up. I just share now.
