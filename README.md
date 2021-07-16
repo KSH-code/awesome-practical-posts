@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.15. ~
+- https://gungor.github.io/article/2021/05/02/tdd-outsidein-vs-insideout.html
 - https://betterprogramming.pub/the-art-of-choosing-the-right-index-in-mysql-968461bcabe8
 - https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91
 - https://medium.com/airbnb-engineering/building-an-inclusive-codebase-bbaa2315e5b8
