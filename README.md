@@ -4,6 +4,11 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.07.27. ~
+- https://markgreville.ie/2021/07/23/technical-debt-is-not-debt-its-not-even-technical
+- https://nl.devoteam.com/expert-view/monitoring-driven-development-are-you-making-money
+
+
 ## 2021.07.15. ~
 - https://gungor.github.io/article/2021/05/02/tdd-outsidein-vs-insideout.html
 - https://betterprogramming.pub/the-art-of-choosing-the-right-index-in-mysql-968461bcabe8
