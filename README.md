@@ -7,6 +7,8 @@
 ## 2021.07.27. ~
 - https://markgreville.ie/2021/07/23/technical-debt-is-not-debt-its-not-even-technical
 - https://nl.devoteam.com/expert-view/monitoring-driven-development-are-you-making-money
+- https://world.hey.com/jorge/making-rails-run-just-a-few-tests-faster-2c82dc4b
+- https://www.bigbinary.com/blog/rails-6-adds-parallel-testing
 
 
 ## 2021.07.15. ~
