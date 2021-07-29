@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://stackoverflow.com/a/59637676
 - http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh
 - https://martinfowler.com/bliki/CQRS.html
 - https://markgreville.ie/2021/07/23/technical-debt-is-not-debt-its-not-even-technical
