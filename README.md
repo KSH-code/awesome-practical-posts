@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://www.logianalytics.com/5-benefits-3-tier-architecture/
 - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 - https://stackoverflow.com/a/59637676
 - http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh
