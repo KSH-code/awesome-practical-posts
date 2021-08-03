@@ -5,6 +5,13 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://mysqlserverteam.com/mysql-8-0-retiring-support-for-the-query-cache/
+- https://www.mongodb.com/blog/post/what-about-durability
+- https://en.wikipedia.org/wiki/CAP_theorem
+- https://codahale.com/you-cant-sacrifice-partition-tolerance/
+- https://www.programmersought.com/article/97893470229/
+- https://debugged.it/blog/cap-theorem/
+- https://mariadb.com/kb/en/query-cache/#limitations
 - https://www.logianalytics.com/5-benefits-3-tier-architecture/
 - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 - https://stackoverflow.com/a/59637676
