@@ -5,6 +5,9 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://www.nngroup.com/articles/response-times-3-important-limits/
+- https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler
+- https://blog.nelhage.com/post/reflections-on-performance/
 - https://mysqlserverteam.com/mysql-8-0-retiring-support-for-the-query-cache/
 - https://www.mongodb.com/blog/post/what-about-durability
 - https://en.wikipedia.org/wiki/CAP_theorem
