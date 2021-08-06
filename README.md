@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://www.codeproject.com/Tips/1080308/An-Introduction-to-Integer-Compression
 - https://www.nngroup.com/articles/response-times-3-important-limits/
 - https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler
 - https://blog.nelhage.com/post/reflections-on-performance/
