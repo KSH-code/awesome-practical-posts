@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://eng.uber.com/postgres-to-mysql-migration/
 - https://semaphoreci.com/blog/what-is-canary-deployment
 - https://www.mail-archive.com/sqlite-users@mailinglists.sqlite.org/msg86235.html
 - https://www.codeproject.com/Tips/1080308/An-Introduction-to-Integer-Compression
