@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.07.27. ~
+- https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
 - https://eng.uber.com/postgres-to-mysql-migration/
 - https://semaphoreci.com/blog/what-is-canary-deployment
 - https://www.mail-archive.com/sqlite-users@mailinglists.sqlite.org/msg86235.html
