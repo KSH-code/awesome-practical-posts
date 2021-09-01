@@ -6,7 +6,12 @@
 
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
+
+### Philosophy of Software Design Series
+- https://csruiliu.github.io/blog/20201115-a-philosophy-of-software-design-I/
 - https://csruiliu.github.io/blog/20201218-a-philosophy-of-software-design-II/
+- https://csruiliu.github.io/blog/20201221-a-philosophy-of-software-design-III/
+- https://csruiliu.github.io/blog/20201222-a-philosophy-of-software-design-IV/
 
 ## 2021.07.27. ~
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
