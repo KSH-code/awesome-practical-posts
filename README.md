@@ -6,6 +6,7 @@
 
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
+- https://csruiliu.github.io/blog/20201218-a-philosophy-of-software-design-II/
 
 ## 2021.07.27. ~
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
