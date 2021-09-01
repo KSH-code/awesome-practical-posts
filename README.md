@@ -4,6 +4,9 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.09.01. ~
+- https://nakabonne.dev/posts/depth-of-module/
+
 ## 2021.07.27. ~
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
 - https://eng.uber.com/postgres-to-mysql-migration/
