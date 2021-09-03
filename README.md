@@ -7,6 +7,12 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+
+### Package Design Principle
+- https://devlead.io/DevTips/StableDependenciesPrinciple
+- https://ganghee-lee.tistory.com/21
+
+
 ### Software Architecture
 - https://karandhillon95.medium.com/the-morning-after-syndrome-4e49096156ed
 
