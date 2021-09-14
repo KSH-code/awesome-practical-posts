@@ -8,6 +8,9 @@
 - https://nakabonne.dev/posts/depth-of-module/
 
 
+### Software Test
+- https://www.guru99.com/mutation-testing.html
+
 ### Package Design Principle
 - https://devlead.io/DevTips/StableDependenciesPrinciple
 - https://ganghee-lee.tistory.com/21
