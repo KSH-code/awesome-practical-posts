@@ -7,6 +7,8 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### To optimize performance for analytics
+- https://towardsdatascience.com/stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e
 
 ### Software Test
 - https://www.guru99.com/mutation-testing.html
