@@ -7,6 +7,9 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### Code smell
+- https://www.codewithjason.com/bloated-rails-active-record-models/
+
 ### To optimize performance for analytics
 - https://towardsdatascience.com/stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e
 
