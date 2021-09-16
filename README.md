@@ -9,6 +9,8 @@
 
 ### Code smell
 - https://www.codewithjason.com/bloated-rails-active-record-models/
+- https://www.codewithjason.com/used-intelligently-rails-concerns-great/
+- https://signalvnoise.com/posts/3372-put-chubby-models-on-a-diet-with-concerns
 
 ### To optimize performance for analytics
 - https://towardsdatascience.com/stop-using-csvs-for-storage-this-file-format-is-150-times-faster-158bd322074e
