@@ -7,6 +7,9 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### Ruby internals
+- https://blog.peterzhu.ca/ruby-str-mem-leak/
+
 ### Code smell
 - https://www.codewithjason.com/bloated-rails-active-record-models/
 - https://www.codewithjason.com/used-intelligently-rails-concerns-great/
