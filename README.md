@@ -25,9 +25,9 @@
 - https://devlead.io/DevTips/StableDependenciesPrinciple
 - https://ganghee-lee.tistory.com/21
 
-
 ### Software Architecture
 - https://karandhillon95.medium.com/the-morning-after-syndrome-4e49096156ed
+- http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
 
 ### Philosophy of Software Design Series
 - https://csruiliu.github.io/blog/20201115-a-philosophy-of-software-design-I/
