@@ -7,6 +7,14 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### Maximize developer productivity
+- https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
+- https://shopify.engineering/shopify-monolith
+
+### Rails upgrade guide
+- https://shopify.engineering/upgrading-shopify-to-rails-5-0
+- https://shopify.engineering/living-on-the-edge-of-rails
+
 ### Ruby internals
 - https://blog.peterzhu.ca/ruby-str-mem-leak/
 
