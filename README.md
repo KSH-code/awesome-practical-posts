@@ -7,6 +7,9 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### SOLID
+- https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+
 ### Maximize developer productivity
 - https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 - https://shopify.engineering/shopify-monolith
