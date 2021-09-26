@@ -9,6 +9,7 @@
 
 ### SOLID
 - https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+- https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start
 
 ### Maximize developer productivity
 - https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
