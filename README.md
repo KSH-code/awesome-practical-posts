@@ -7,6 +7,9 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### Caching strategy
+- https://shopify.engineering/shop-app-custom-caching-solution
+
 ### SOLID
 - https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
 - https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start
