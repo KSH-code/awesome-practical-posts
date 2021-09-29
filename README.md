@@ -7,7 +7,7 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
-### Re-write legacy systems with no downtime
+### Rewrite legacy systems with no downtime
 - https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite
 
 ### Caching strategy
