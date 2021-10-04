@@ -7,6 +7,9 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### Tips for PS
+- https://codeforces.com/blog/entry/57729
+
 ### Rewrite legacy systems with no downtime
 - https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite
 
