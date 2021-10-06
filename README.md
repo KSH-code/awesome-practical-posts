@@ -7,6 +7,9 @@
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
+### Ruby upgrade guide
+- https://juanitofatas.com/ruby-3-keyword-arguments
+
 ### Tips for PS
 - https://codeforces.com/blog/entry/57729
 
