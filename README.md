@@ -26,6 +26,7 @@
 ### Maximize developer productivity
 - https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 - https://shopify.engineering/shopify-monolith
+- https://thoughtbot.com/blog/rubocop-custom-cops-for-custom-needs
 
 ### Rails upgrade guide
 - https://shopify.engineering/upgrading-shopify-to-rails-5-0
