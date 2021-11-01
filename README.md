@@ -4,6 +4,10 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2021.11.01. ~
+### Performance
+- https://brunosutic.com/blog/async-ruby
+
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
