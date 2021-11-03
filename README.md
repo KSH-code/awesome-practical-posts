@@ -11,6 +11,9 @@
 ### Inspection
 - https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 
+### Upgrade
+- https://engineering.skroutz.gr/blog/monolith-diaries-upgrading-rails/#working-for-the-upgrade
+
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
