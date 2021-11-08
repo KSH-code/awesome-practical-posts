@@ -7,6 +7,7 @@
 ## 2021.11.01. ~
 ### Performance
 - https://brunosutic.com/blog/async-ruby
+- https://blog.peterzhu.ca/ruby-memcheck/
 
 ### Inspection
 - https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
