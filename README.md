@@ -5,6 +5,10 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2021.11.01. ~
+
+### Distributed System
+- https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
+
 ### Performance
 - https://brunosutic.com/blog/async-ruby
 - https://blog.peterzhu.ca/ruby-memcheck/
