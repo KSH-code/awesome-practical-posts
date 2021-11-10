@@ -15,6 +15,7 @@
 
 ### Inspection
 - https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+- https://developer.chrome.com/docs/devtools/recorder/
 
 ### Upgrade
 - https://engineering.skroutz.gr/blog/monolith-diaries-upgrading-rails/#working-for-the-upgrade
