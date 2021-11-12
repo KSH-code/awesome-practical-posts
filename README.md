@@ -20,6 +20,9 @@
 ### Upgrade
 - https://engineering.skroutz.gr/blog/monolith-diaries-upgrading-rails/#working-for-the-upgrade
 
+### Etc
+- https://dev.to/vitaliipaprotskyi/what-does-class-self-actually-do-in-ruby-2on1
+
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
 
