@@ -24,6 +24,7 @@
 ### Etc
 - https://dev.to/vitaliipaprotskyi/what-does-class-self-actually-do-in-ruby-2on1
 - https://betterprogramming.pub/avoiding-premature-software-abstractions-8ba2e990930a
+- https://www.figma.com/blog/realtime-editing-of-ordered-sequences/
 
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
