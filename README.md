@@ -17,6 +17,7 @@
 ### Inspection
 - https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 - https://developer.chrome.com/docs/devtools/recorder/
+- https://www.hexdevs.com/posts/code-quality-ruby-on-rails/#rails-code-quality-checklist
 
 ### Upgrade
 - https://engineering.skroutz.gr/blog/monolith-diaries-upgrading-rails/#working-for-the-upgrade
