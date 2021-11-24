@@ -6,6 +6,9 @@
 
 ## 2021.11.01. ~
 
+### Rails Tips
+- https://macarthur.me/posts/conditionally-rendering-templates-in-rails
+
 ### Distributed System
 - https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
 - https://medium.com/google-cloud/understand-cloud-load-balancer-like-a-senior-engineer-d4f55f3111fc
