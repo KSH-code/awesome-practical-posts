@@ -13,6 +13,7 @@
 ### Distributed System
 - https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
 - https://medium.com/google-cloud/understand-cloud-load-balancer-like-a-senior-engineer-d4f55f3111fc
+- https://zonito.medium.com/everything-about-load-balancer-with-cheat-sheet-64b351f0f7b3
 
 ### Performance
 - https://brunosutic.com/blog/async-ruby
