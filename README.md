@@ -18,6 +18,7 @@
 ### Performance
 - https://brunosutic.com/blog/async-ruby
 - https://blog.peterzhu.ca/ruby-memcheck/
+- https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172
 
 ### Inspection
 - https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
