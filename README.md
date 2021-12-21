@@ -9,6 +9,7 @@
 ### Rails Tips
 - https://macarthur.me/posts/conditionally-rendering-templates-in-rails
 - https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/
+- https://rubyreferences.github.io/rubychanges/3.0.html
 
 ### Distributed System
 - https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
