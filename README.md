@@ -10,6 +10,10 @@
 - https://macarthur.me/posts/conditionally-rendering-templates-in-rails
 - https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/
 - https://rubyreferences.github.io/rubychanges/3.0.html
+- about update
+  - https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/
+  - https://gettalong.org/blog/2021/benchmarking-rubies.html
+  - https://twitter.com/yahonda/status/1474289305158053893?t=o0YoDiudxQo5XntX7XWHGw&s=19
 
 ### Distributed System
 - https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
