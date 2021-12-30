@@ -41,6 +41,7 @@
 - https://www.figma.com/blog/realtime-editing-of-ordered-sequences/
 - https://v8.dev/features/top-level-await
 - https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
+- https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/
 
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
