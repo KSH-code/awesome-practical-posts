@@ -43,6 +43,7 @@
 - https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 - https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/
 - https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/
+- https://csstracking.dev/
 
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
