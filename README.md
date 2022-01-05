@@ -44,6 +44,7 @@
 - https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/
 - https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/
 - https://csstracking.dev/
+- https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern
 
 ## 2021.09.01. ~
 - https://nakabonne.dev/posts/depth-of-module/
