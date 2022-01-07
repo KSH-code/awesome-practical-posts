@@ -4,6 +4,11 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2022.01.07. ~
+
+### Scaling Productivity
+- https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813
+
 ## 2021.11.01. ~
 
 ### Rails Tips
