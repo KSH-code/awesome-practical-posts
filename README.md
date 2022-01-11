@@ -10,6 +10,9 @@
 - https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813
 - https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee
 
+### Ruby
+- https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html
+
 ## 2021.11.01. ~
 
 ### Rails Tips
