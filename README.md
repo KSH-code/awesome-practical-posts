@@ -16,6 +16,9 @@
 ### Ruby
 - https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html
 
+### Front-end
+- https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue
+
 ## 2021.11.01. ~
 
 ### Rails Tips
