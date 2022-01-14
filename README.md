@@ -6,6 +6,9 @@
 
 ## 2022.01.07. ~
 
+### Interview
+- https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers/answer/John-Byrd-2?ch=10&oid=70250852&share=975c4ec0&target_type=answer
+
 ### Event Streaming
 - https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767
 
