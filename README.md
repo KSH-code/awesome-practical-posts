@@ -22,6 +22,8 @@
 
 ### Front-end
 - https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue
+- https://www.aleksandrhovhannisyan.com/blog/writing-better-css/
+- https://web.dev/css-is-and-where/
 
 ## 2021.11.01. ~
 
