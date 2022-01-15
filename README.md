@@ -18,6 +18,7 @@
 
 ### Ruby
 - https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html
+- https://www.bootrails.com/blog/ruby-strftime-short-and-long-story/
 
 ### Front-end
 - https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue
