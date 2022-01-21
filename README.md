@@ -6,6 +6,10 @@
 
 ## 2022.01.07. ~
 
+### Test
+- https://testing.googleblog.com/2021/04/mutation-testing.html
+- https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html
+
 ### Interview
 - https://www.quora.com/What-is-the-hardest-thing-about-hiring-programmers/answer/John-Byrd-2?ch=10&oid=70250852&share=975c4ec0&target_type=answer
 
