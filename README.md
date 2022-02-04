@@ -6,6 +6,10 @@
 
 ## 2022.01.07. ~
 
+### Security
+- https://incolumitas.com/2016/06/08/typosquatting-package-managers/
+- https://shopify.engineering/fixing-dependency-confusion-ruby-applications
+
 ### Test
 - https://testing.googleblog.com/2021/04/mutation-testing.html
 - https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html
