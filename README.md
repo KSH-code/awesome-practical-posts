@@ -4,6 +4,11 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2022.02.21. ~
+
+### Web Accessibility
+- https://www.craigabbott.co.uk/blog/using-the-language-attribute-to-make-your-website-accessible
+
 ## 2022.01.07. ~
 
 ### Security
