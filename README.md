@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Project
+- https://www.atlassian.com/blog/productivity/how-to-write-smart-goals
+
 ### Web Accessibility
 - https://www.craigabbott.co.uk/blog/using-the-language-attribute-to-make-your-website-accessible
 
