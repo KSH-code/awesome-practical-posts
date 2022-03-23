@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Ruby
+- https://nts.strzibny.name/gem-compare-1.0/
+
 ### Project
 - https://www.atlassian.com/blog/productivity/how-to-write-smart-goals
 
