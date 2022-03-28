@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Analytics
+- https://css-tricks.com/send-an-http-request-on-page-exit/
+
 ### Ruby
 - https://nts.strzibny.name/gem-compare-1.0/
 
