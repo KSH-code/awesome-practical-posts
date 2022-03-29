@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Web
+- https://chromium.googlesource.com/chromium/src/+/main/docs/idn.md
+
 ### Analytics
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 
