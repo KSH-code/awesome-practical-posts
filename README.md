@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Principle
+- https://www.chromium.org/developers/core-principles/
+
 ### Web
 - https://chromium.googlesource.com/chromium/src/+/main/docs/idn.md
 
