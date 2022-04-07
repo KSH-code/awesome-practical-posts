@@ -16,6 +16,7 @@
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 
 ### Ruby
+- https://www.reddit.com/r/rails/comments/txny1b/what_are_the_best_resources_out_there_to_learn/
 - https://nts.strzibny.name/gem-compare-1.0/
 
 ### Project
