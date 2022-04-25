@@ -13,6 +13,7 @@
 - https://chromium.googlesource.com/chromium/src/+/main/docs/idn.md
 
 ### Analytics
+- https://understandlegacycode.com/blog/demine-codebase-with-exploratory-refactoring/
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 
 ### Ruby
