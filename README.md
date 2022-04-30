@@ -15,6 +15,7 @@
 ### Analytics
 - https://understandlegacycode.com/blog/demine-codebase-with-exploratory-refactoring/
 - https://css-tricks.com/send-an-http-request-on-page-exit/
+- https://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/
 
 ### Ruby
 - https://www.reddit.com/r/rails/comments/txny1b/what_are_the_best_resources_out_there_to_learn/
