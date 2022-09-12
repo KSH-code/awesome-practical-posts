@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Technique
+- [BloomFilter](https://www.youtube.com/watch?v=V3pzxngeLqw)
+
 ### Principle
 - https://www.chromium.org/developers/core-principles/
 
