@@ -6,6 +6,9 @@
 
 ## 2022.02.21. ~
 
+### Testing
+- [Smoke Testing](https://www.guru99.com/smoke-testing.html)
+
 ### Technique
 - [BloomFilter](https://www.youtube.com/watch?v=V3pzxngeLqw)
 
