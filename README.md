@@ -4,6 +4,9 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## 2023.
+- https://dev.mysql.com/blog-archive/contention-aware-transaction-scheduling-arriving-in-innodb-to-boost-performance/
+
 ## 2022.02.21. ~
 
 ### Testing
