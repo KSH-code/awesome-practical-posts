@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/
 - https://world.hey.com/dhh/don-t-be-fooled-by-serverless-776cd730
 - https://dev.mysql.com/blog-archive/contention-aware-transaction-scheduling-arriving-in-innodb-to-boost-performance/
 
