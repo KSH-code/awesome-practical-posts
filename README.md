@@ -5,7 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
-- https://hudi.blog/jvm-warm-up/?utm_source=oneoneone
+- https://hudi.blog/jvm-warm-up
 - https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-1
 - https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes
 - https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/
