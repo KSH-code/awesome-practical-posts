@@ -5,6 +5,10 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://discord.com/blog/how-discord-stores-billions-of-messages
+- https://discord.com/blog/how-discord-maintains-performance-while-adding-features
+- https://slack.engineering/a-faster-smarter-quick-switcher/
+- https://university.scylladb.com/courses/data-modeling/lessons/basic-data-modeling-2/topic/primary-key-partition-key-clustering-key-part-two/
 - https://dev.gmarket.com/46
 - https://helloworld.kurly.com/blog/distributed-redisson-lock/
 - https://medium.com/@RamLakshmanan/jvm-c1-c2-compiler-thread-high-cpu-consumption-b99acc604f1d
