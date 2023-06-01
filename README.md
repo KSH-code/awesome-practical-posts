@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://tech.kakaopay.com/post/martin-dev-honey-tip-2/
 - https://www.scylladb.com/2022/06/30/preventing-data-resurrection-with-repair-based-tombstone-garbage-collection/
 - https://discord.com/blog/how-discord-stores-billions-of-messages
 - https://discord.com/blog/how-discord-maintains-performance-while-adding-features
