@@ -5,6 +5,8 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
+- https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c
 - https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835
 - https://tech.kakaopay.com/post/martin-dev-honey-tip-2/
 - https://www.scylladb.com/2022/06/30/preventing-data-resurrection-with-repair-based-tombstone-garbage-collection/
