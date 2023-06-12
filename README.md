@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://jacking75.github.io/db-0524/
 - https://jacking75.github.io/tech_20220414/
 - https://www.mimul.com/blog/go-vs-java-thread/
 - https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1
