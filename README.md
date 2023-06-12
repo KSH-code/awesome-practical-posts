@@ -5,6 +5,9 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://www.uber.com/en-SE/blog/mysql-to-myrocks-migration-in-uber-distributed-datastores/
+- https://engineering.fb.com/2016/08/31/core-data/myrocks-a-space-and-write-optimized-mysql-database/
+- https://aws.amazon.com/ko/blogs/database/increase-write-throughput-on-amazon-rds-for-mariadb-using-the-myrocks-storage-engine/
 - https://jacking75.github.io/db-0524/
 - https://jacking75.github.io/tech_20220414/
 - https://www.mimul.com/blog/go-vs-java-thread/
