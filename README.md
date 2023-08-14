@@ -5,6 +5,8 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://tech.kakaopay.com/post/kakaopay-growth-platform-abtest/
+- https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
 - https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
 - https://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/
 - https://debezium.io/blog/2019/10/01/audit-logs-with-change-data-capture-and-stream-processing/
