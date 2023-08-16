@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://dzone.com/articles/why-and-when-to-use-graphql-1
 - https://tech.kakaopay.com/post/kakaopay-growth-platform-abtest/
 - https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
 - https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
