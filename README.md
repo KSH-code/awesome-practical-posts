@@ -5,6 +5,10 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://www.baeldung.com/jvm-zgc-garbage-collector
+- https://d2.naver.com/helloworld/0128759
+- https://www.whatap.io/ko/blog/57/
+- https://johngrib.github.io/wiki/java/gc/zgc/
 - https://medium.com/paypal-tech/graphql-resolvers-best-practices-cd36fdbcef55
 - https://medium.com/paypal-tech/graphql-a-success-story-for-paypal-checkout-3482f724fb53
 - https://dzone.com/articles/why-and-when-to-use-graphql-1
