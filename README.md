@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://tech.kakaopay.com/post/mock-test-code-part-2/
 - https://www.baeldung.com/jvm-zgc-garbage-collector
 - https://d2.naver.com/helloworld/0128759
 - https://www.whatap.io/ko/blog/57/
