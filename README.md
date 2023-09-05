@@ -5,6 +5,10 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://vladmihalcea.com/hide-jpa-entity-identifier/
+- https://vladmihalcea.com/clustered-index/
+- https://www.percona.com/blog/tuning-innodb-primary-keys/
+- https://blogs.oracle.com/mysql/post/introducing-mysql-innovation-and-longterm-support-lts-versions
 - https://tech.kakaopay.com/post/mock-test-code-part-2/
 - https://www.baeldung.com/jvm-zgc-garbage-collector
 - https://d2.naver.com/helloworld/0128759
