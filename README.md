@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://techblog.woowahan.com/13726/
 - https://vladmihalcea.com/hide-jpa-entity-identifier/
 - https://vladmihalcea.com/clustered-index/
 - https://www.percona.com/blog/tuning-innodb-primary-keys/
