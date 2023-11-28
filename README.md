@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://techblog.woowahan.com/14874/
 - https://netmarble.engineering/jdbc-timeout-for-game-server/
 - https://lawsofux.com/
 - https://lawsofux.com/articles/2020/ux-psychology-google-search/
