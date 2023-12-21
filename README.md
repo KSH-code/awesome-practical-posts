@@ -5,6 +5,7 @@
 - 2020.11.22. I am going to share posts I read with summary.
 
 ## 2023.
+- https://devocean.sk.com/blog/techBoardDetail.do?ID=165557&boardType=techBlog
 - https://tech.kakaopay.com/post/improve-service-performance/
 - https://techblog.woowahan.com/14874/
 - https://netmarble.engineering/jdbc-timeout-for-game-server/
