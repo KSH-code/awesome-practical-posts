@@ -4,6 +4,9 @@
 - 2021.01.07. I am going to share Posts are grouped by date that I read.
 - 2020.11.22. I am going to share posts I read with summary.
 
+## For prepare interview
+- https://sangminpark.blog/2017/06/21/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-4/
+
 ## 2023.
 - https://devocean.sk.com/blog/techBoardDetail.do?ID=165557&boardType=techBlog
 - https://tech.kakaopay.com/post/improve-service-performance/
