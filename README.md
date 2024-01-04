@@ -7,6 +7,25 @@
 ## For prepare interview
 - https://sangminpark.blog/2017/06/21/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-4/
 
+## 2024.01.14
+- https://news.hada.io/topic?id=12683
+
+open ai 매출이 벌써 연 2조라고 하네요.
+
+- https://medium.com/idus-tech/kubernetes-pod-resources-cpu-limit-40626a4c235e
+
+kubernetes의 cpu설정을 여러 케이스로 해서 개선하는 내용을 소개합니다.
+레퍼런스들 까지 보면 도움이 많이 될 거 같아서 읽는 것을 추천합니다.
+
+- https://medium.com/wantedjobs/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%94[…]C%A9%ED%8A%B8-%EC%82%B0%EC%A0%95%ED%95%98%EA%B8%B0-cfc2bf8574eb
+
+엔지니어링 비용을 원화로 환산하는데, 임팩트를 산출하는 과정이 인상적입니다.
+
+- https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%E[…]EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3
+
+마틴파울러 아저씨가 프롬프트 엔지니어링을 어떻게 하는지 설명하는 글입니다.
+정답을 바로 알기 보다는, 문제 해결 과정을 같이 하는 것이 인상적이네요.
+
 ## 2023.
 - https://devocean.sk.com/blog/techBoardDetail.do?ID=165557&boardType=techBlog
 - https://tech.kakaopay.com/post/improve-service-performance/
