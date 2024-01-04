@@ -1,12 +1,3 @@
-## Purpose
-
-- 2021.07.15. From now on, I'll not sum-up because of no time to describe.
-- 2021.01.07. I am going to share Posts are grouped by date that I read.
-- 2020.11.22. I am going to share posts I read with summary.
-
-## For prepare interview
-- https://sangminpark.blog/2017/06/21/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-4/
-
 ## 2024.01.14
 - https://news.hada.io/topic?id=12683
 
@@ -27,6 +18,7 @@ kubernetes의 cpu설정을 여러 케이스로 해서 개선하는 내용을 소
 정답을 바로 알기 보다는, 문제 해결 과정을 같이 하는 것이 인상적이네요.
 
 ## 2023.
+- https://sangminpark.blog/2017/06/21/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-4/
 - https://devocean.sk.com/blog/techBoardDetail.do?ID=165557&boardType=techBlog
 - https://tech.kakaopay.com/post/improve-service-performance/
 - https://techblog.woowahan.com/14874/
