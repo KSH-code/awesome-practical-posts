@@ -1,3 +1,11 @@
+## 2024.01.09
+- https://techblog.woowahan.com/15236/
+  - 장애 전파를 막기 위해 기존 결제 수단을 차단하는 방법이 제공되고 있고, 여러 팀에 slack workflow를 통해 정해진 양식으로 긴급 상황을 전파하는 것이 기억에 남는다.
+  - 외부 업체에 API를 통해 status를 감지할 수 있는 통로 만드는 것도 설명되어 있는데, 이런 요청은 나도 언젠가 필요할 거 같다.
+- https://dev.mysql.com/doc/refman/5.7/en/insert-optimization.html
+  - https://www.happyjung.com/lecture/3145?sca=MySQL
+  - bulk_insert_buffer_size 에 대한 내용을 찾다가 발견한 글 들인데, 나중에 큰 데이터를 insert할 때 참고할 만 하겠다.
+
 ## 2024.01.05
 - https://blog.lastmind.io/archives/981
   - 아마존의 Debate, Disagree & Commit 의 내용이 생각나는 글이다. 여러 번 부탁하는 것은 여러 환경으로 인해 일이 잘 진행되지 않는 것을 의미하는데, 내가 생각했을 때의 좋은 결론은 논의를 결론내고 (어떤 방향으로 가든) 결과를 내는 것이다. 그 과정에서 disagree & commit이 필요해질 수 있는 것이다.
