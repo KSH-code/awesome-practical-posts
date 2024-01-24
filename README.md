@@ -1,3 +1,11 @@
+## 2024.01.24
+- https://ridicorp.com/story/transactional-outbox-pattern-ridi/
+  - Transactional Outbox Pattern 은 여러 개의 서비스의 데이터를 유기적으로 수정해야 되는 경우 필수처럼 활용되고 있습니다. 위 글은 Transactional Outbox Pattern 의 간단한 구현과 모니터링 방법에 대해 설명합니다.
+  - https://microservices.io/patterns/data/transactional-outbox.html 를 참고하면 좋습니다.
+- https://www.mongodb.com/blog/post/performance-best-practices-transactions-and-read-write-concerns
+  - MongoDB 의 Transaction 및 Write/Read concern 에 대해 설명하는 글입니다. 대부분의 RDB와 마찬가지로 Transaction 의 실행시간을 짧으면 짧을수록 좋고, 수행되는 operation 도 적으면 좋다는 것을 설명합니다.
+  - Write/Read Concern 들은 당연하게도 상황에 맞게 사용해야 되는 것을 안내하고 있습니다만 여러 옵션들에 대해 설명합니다.
+
 ## 2024.01.09
 - https://techblog.woowahan.com/15236/
   - 장애 전파를 막기 위해 기존 결제 수단을 차단하는 방법이 제공되고 있고, 여러 팀에 slack workflow를 통해 정해진 양식으로 긴급 상황을 전파하는 것이 기억에 남는다.
