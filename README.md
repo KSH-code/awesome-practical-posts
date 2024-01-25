@@ -1,3 +1,7 @@
+## 2024.01.25
+- https://medium.com/hongbeomi-dev/coroutines-basic-e32053f18fdf
+  - 코루틴에 대한 공식 문서를 번역한 시리즈의 첫 글입니다. 현재는 코틀린 버전이 많이 올랐지만, 기초 내용은 큰 차이가 없을 거 같아 도움이 많이 되었습니다.
+
 ## 2024.01.24
 - https://ridicorp.com/story/transactional-outbox-pattern-ridi/
   - Transactional Outbox Pattern 은 여러 개의 서비스의 데이터를 유기적으로 수정해야 되는 경우 필수처럼 활용되고 있습니다. 위 글은 Transactional Outbox Pattern 의 간단한 구현과 모니터링 방법에 대해 설명합니다.
