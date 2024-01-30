@@ -1,6 +1,8 @@
 ## 2024.01.30
 - https://suhwan.dev/2019/03/27/spring-test-context-management-and-caching/
   - 스프링 테스트 코드의 context에 대해 설명하며, 요는 MockkBean같은 것을 공통으로 적용하도록 해서 여러 개의 context를 만들지 않는 것이다.
+- https://techblog.woowahan.com/15764/
+  - 금칙어는 다국어가 될 수록 데이터가 많아지며 검색해야하는 양이 늘어나서 서버에 부하를 주게 됩니다. 하지만, 아호코라식 알고리즘을 활용하는 것과 글에서 설명하는 허용단어의 조합 마지막으로 숫자와 같이 우회 패턴을 정리하면 적은 작업으로도 큰 임팩트를 낼 수 있습니다.
 
 ## 2024.01.25
 - https://medium.com/hongbeomi-dev/coroutines-basic-e32053f18fdf
