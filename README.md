@@ -1,3 +1,7 @@
+## 2024.01.30
+- https://suhwan.dev/2019/03/27/spring-test-context-management-and-caching/
+  - 스프링 테스트 코드의 context에 대해 설명하며, 요는 MockkBean같은 것을 공통으로 적용하도록 해서 여러 개의 context를 만들지 않는 것이다.
+
 ## 2024.01.25
 - https://medium.com/hongbeomi-dev/coroutines-basic-e32053f18fdf
   - 코루틴에 대한 공식 문서를 번역한 시리즈의 첫 글입니다. 현재는 코틀린 버전이 많이 올랐지만, 기초 내용은 큰 차이가 없을 거 같아 도움이 많이 되었습니다.
