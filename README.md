@@ -1,3 +1,7 @@
+## 2024.02.02
+- https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql/
+  - Aurora DB는 Primary, Secondary가 같은 Storage를 사용한다는 특징이 있습니다. 이로 인한 문제점을 설명하는 글이며, Secondary에서 long-running transaction이 발생하는 경우 Primary에서 문제가 생길 수 있는 것을 설명합니다.
+
 ## 2024.01.30
 - https://suhwan.dev/2019/03/27/spring-test-context-management-and-caching/
   - 스프링 테스트 코드의 context에 대해 설명하며, 요는 MockkBean같은 것을 공통으로 적용하도록 해서 여러 개의 context를 만들지 않는 것이다.
