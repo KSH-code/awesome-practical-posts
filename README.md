@@ -1,7 +1,7 @@
 ## 2024.02.07
 - https://techblog.woowahan.com/14041/
   - Elasticsearch를 직접 운영하던 환경에서 Cloud(Opensearch)로 마이그래이션 하는 과정을 설명합니다.
-  - 부하테스트나 여러 인프라 세팅하는 과정을 소개해서 나중에 비슷한 작업이 진행되면 참고하면 도움될 거 같습니다.
+  - 부하테스트나 여러 인프라 세팅하는 과정을 소개해서 나중에 비슷한 작업이 진행될 때, 참고하면 도움될 거 같습니다.
 - https://www.infoq.com/articles/saga-orchestration-outbox/
   - long-running business 트랜잭션을 유연하고 강력하게 구현할 수 있는 방법인 saga pattern에 대해 설명합니다.
   - Transactional Outbox Pattern, CDC(Debezium) 을 이용하고 있고, 여러 케이스에 대해 유의해야 될 사항들을 설명합니다.
