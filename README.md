@@ -1,3 +1,7 @@
+## 2024.02.14
+- https://ryanpark.dev/30
+  - 이전 작업들을 존중하자는 내용이 인상깊다. 내 결과도 남에게 안좋게 보일 수 있다는 것을 인지하고 겸손하자.
+
 ## 2024.02.07
 - https://techblog.woowahan.com/14041/
   - Elasticsearch를 직접 운영하던 환경에서 Cloud(Opensearch)로 마이그래이션 하는 과정을 설명합니다.
