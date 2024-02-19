@@ -1,3 +1,9 @@
+## 2024.02.19
+- https://aws.amazon.com/ko/blogs/tech/how-channel-talk-handles-high-volume-traffic-with-amazon-sqs/
+  - 채널톡에서 Amazon SQS를 활용하여 traffic spike를 어떻게 점진적으로 개선했는지 소개합니다.
+  - SQS의 내용을 예시로 소개하지만, Kafka와 같은 Queue System에서도 적용할 수 있는 내용들로 보입니다.
+  - 예를 들어, 중복 제거를 위한 별도 키 추가, Distributed Lock으로서의 큐 시스템 활용, 로깅과 같은 부가적인 시스템은 별도 이벤트 스트리밍으로 분리 후 스팟 인스턴스로 비용 절감과 같은 내용입니다.
+
 ## 2024.02.16
 - https://www.uber.com/en-SE/blog/uber-gc-tuning-for-improved-presto-reliability
   - https://luavis.me/server/g1-gc
@@ -10,7 +16,7 @@
 
 ## 2024.02.14
 - https://ryanpark.dev/30
-  - 특히 이전 작업들을 존중하자는 내용이 인상깊습니다. 내 결과도 남에게 안좋게 보일 수 있다는 것을 인지하고 겸손하자는 생각이 들었습다.
+  - 특히 이전 작업들을 존중하자는 내용이 인상깊습니다. 내 결과도 남에게 안좋게 보일 수 있다는 것을 인지하고 겸손하자는 생각이 들었습니다.
 
 ## 2024.02.07
 - https://techblog.woowahan.com/14041/
