@@ -1,3 +1,8 @@
+## 2024.03.05
+- https://tech.devsisters.com/posts/cro-mysql-online-alter/
+  - Online DDL을 하는 경우와는 무관한 내용들을 설명하는 거 같으나, index를 사용하는지 확인하는 것과 캐시를 어떻게 관리해야 리소스 효율적인지 설명하는 내용은 어디에서나 적용 가능하고 유익한 내용같다.
+  - 핵심은 공통 캐시가 필요한 경우 적극 활용과 작성한 쿼리는 항상 explain해보는 것이다.
+
 ## 2024.02.19
 - https://aws.amazon.com/ko/blogs/tech/how-channel-talk-handles-high-volume-traffic-with-amazon-sqs/
   - 채널톡에서 Amazon SQS를 활용하여 traffic spike를 어떻게 점진적으로 개선했는지 소개합니다.
