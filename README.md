@@ -2,6 +2,9 @@
 - https://tech.devsisters.com/posts/cro-mysql-online-alter/
   - Online DDL을 하는 경우와는 무관한 내용들을 설명하는 거 같으나, index를 사용하는지 확인하는 것과 캐시를 어떻게 관리해야 리소스 효율적인지 설명하는 내용은 어디에서나 적용 가능하고 유익한 내용같다.
   - 핵심은 공통 캐시가 필요한 경우 적극 활용과 작성한 쿼리는 항상 explain해보는 것이다.
+- https://techblog.lycorp.co.jp/ko/running-redis-at-scale
+  - 글의 처음부터 끝까지 몰입하면서 읽게된 글이다. Redis와 같은 캐시 레이어는 보통 꾸준히 사용량 추적하지 않으면 사용자 입장에서는 단순히 scale-up을 선택할 수 있는데, 이를 추적하는 메트릭을 제공받는다면 너무 좋을 거 같았고, 메일로 피드백 받는 것도 인상깊었다.
+  - 핵심은 공통 서비스 제공자 입장에서는 사용자들의 편리함을 위해 니즈를 잘 파악하는 것과 피드백을 잘 받는 것인거 같고, 사용자 입장에서는 주기적으로 공통 리소스 오남용하고 있는지 고민하는 것인거 같다.
 
 ## 2024.02.19
 - https://aws.amazon.com/ko/blogs/tech/how-channel-talk-handles-high-volume-traffic-with-amazon-sqs/
