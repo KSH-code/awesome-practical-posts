@@ -1,3 +1,8 @@
+## 2024.03.11
+- https://techblog.lycorp.co.jp/ko/experience-in-migrating-order-db-on-ecommerce-platform
+  - Database를 변경하는 것으로 시작하지만, 관련 내용은 마지막에 짧게 설명되어 있고, 사실 모델링을 어떻게 하면 좋을지, Persistence Layer를 어떻게 관리하면 좋을지에 대한 내용이 더 와닿았다.
+  - 핵심은, 1) Persistence Layer와 Domain Layer를 잘 분리하는 것, 2) Aggregate를 잘 정의해서 DB의 overhead를 최소화하는 것, 3) JPA나 Java에서 병목지점을 파악하여 개선하는 것 이 있다.
+
 ## 2024.03.05
 - https://tech.devsisters.com/posts/cro-mysql-online-alter/
   - Online DDL을 하는 경우와는 무관한 내용들을 설명하는 거 같으나, index를 사용하는지 확인하는 것과 캐시를 어떻게 관리해야 리소스 효율적인지 설명하는 내용은 어디에서나 적용 가능하고 유익한 내용같다.
