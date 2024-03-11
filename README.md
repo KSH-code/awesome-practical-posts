@@ -1,4 +1,7 @@
 ## 2024.03.11
+- https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes
+  - Scale up의 한계로 Scale out을 고려해야할 때, 읽으면 좋은 글 같다.
+  - 핵심은, 1) 카프카 스트림을 이용해서 DB데이터를 ksql로 관리하고, 2) MongoDB로 샤딩을 잘 해서 scale-out의 장점을 취하면서, 3) Disk I/O를 최소화하기 위한 테크닉까지 고려하는 것이다.
 - https://techblog.lycorp.co.jp/ko/experience-in-migrating-order-db-on-ecommerce-platform
   - Database를 변경하는 것으로 시작하지만, 관련 내용은 마지막에 짧게 설명되어 있고, 사실 모델링을 어떻게 하면 좋을지, Persistence Layer를 어떻게 관리하면 좋을지에 대한 내용이 더 와닿았다.
   - 핵심은, 1) Persistence Layer와 Domain Layer를 잘 분리하는 것, 2) Aggregate를 잘 정의해서 DB의 overhead를 최소화하는 것, 3) JPA나 Java에서 병목지점을 파악하여 개선하는 것 이 있다.
