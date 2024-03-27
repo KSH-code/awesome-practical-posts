@@ -1,3 +1,8 @@
+## 2024.03.27
+- https://groups.google.com/g/wiredtiger-users/c/1YHbNXPw-1A
+  - MongoDB에서 B-tree를 어떻게 활용하며 B+-tree랑 어떻게 다른지 설명하는 내용입니다.
+  - 핵심은, (1) leaf들에만 데이터 저장하지만, leaf간에 이동 불가능한 것입니다. (2) 부족한 성능은 캐싱으로 해결합니다.
+
 ## 2024.03.11
 - https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes
   - Scale up의 한계로 Scale out을 고려해야할 때, 읽으면 좋은 글 같다.
