@@ -1,3 +1,10 @@
+## 2024.05.16
+- https://toss.tech/article/27600
+  - 라이브 쇼핑 서비스의 성능 개선 방법들에 대해 설명한다.
+  - 실무에서 많이 사용해봤던 최적화 방법들이다. 1) Universal data를 캐싱하기, 2) Universal data의 캐싱이 Redis같은 Database라면 Local caching하기, 3) Local caching은 consistency를 보장하기 어려우므로 pub/sub구조로 invalidate하기, 4) 중복 Http call 제거하기 가 있었다.
+  - 다른 추가적인 방법은 클라이언트에서 캐싱하기 도 있는데, 단, 클라이언트팀과 서버팀의 논의를 통해 어떤 데이터가 캐싱되어도 괜찮을지 확인해야 된다고 생각한다.
+  - 그리고, 모니터링 부분이 언급되어 있는데 1) 문제지점 파악, 2) 개선 결과 확인 은 중요하므로 필수로 되어야 한다고 생각한다. 이 과정은 쉽고 빠르게 진행될 수 있어야 가장 좋다.
+
 ## 2024.03.27
 - https://groups.google.com/g/wiredtiger-users/c/1YHbNXPw-1A
   - MongoDB에서 B-tree를 어떻게 활용하며 B+-tree랑 어떻게 다른지 설명하는 내용입니다.
