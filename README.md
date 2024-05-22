@@ -1,3 +1,8 @@
+## 2024.05.22
+- https://frogred8.github.io/docs/034_why_is_kafka_fast/
+  - Kafka가 왜 빠른지에 대해 설명으로 시작하지만, OS level에서의 zero copy에 대해 설명하거나 TLB와 같은 키워드를 언급하는 등 레퍼런스를 참고하면 좋을 내용들이 많았다.
+  - 핵심은 contexnt switching을 줄여서 비용을 줄이는 것인데, 트래픽이 많은 서비스를 개발할 때는 사소한 로직이더라도 I/O가 얼마나 발생하는지 context switching은 얼마나 발생하는지 파악하는게 중요해보인다.
+
 ## 2024.05.16
 - https://toss.tech/article/27600
   - 라이브 쇼핑 서비스의 성능 개선 방법들에 대해 설명한다.
