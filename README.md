@@ -1,3 +1,7 @@
+## 2024.06.05
+- https://sendbird.com/ko/blog/%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C-50%EB%A7%8C%EB%AA%85%EC%9D%98-%EC%9C%A0%EC%A0%80%EC%97%90%EA%B2%8C-push-notification-%EB%B3%B4%EB%82%B4%EA%B8%B0
+  - Scheduled job에서 SQS를 고려하지 않는 이유는 보통 15분의 delay 제한때문으로 알고있는데, Step function의 wait time을 이용 가능하다면 인프라적으로 Delayed queue를 만들기 아주 유용해보인다.
+
 ## 2024.05.22
 - https://frogred8.github.io/docs/034_why_is_kafka_fast/
   - Kafka가 왜 빠른지에 대해 설명으로 시작하지만, OS level에서의 zero copy에 대해 설명하거나 TLB와 같은 키워드를 언급하는 등 레퍼런스를 참고하면 좋을 내용들이 많았다.
