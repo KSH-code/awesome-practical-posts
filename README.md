@@ -1,3 +1,9 @@
+## 2024.06.11
+- https://tech.kakaopay.com/post/r2dbc-connection-pool-missing/
+  - Reactive환경을 위해 R2DBC를 통해 RDBMS에 접근하는 것은 꽤 많은 곳에서 활용하는 방식이다.
+  - 이 글은 Connection pool에게 일반적으로 기대하는 동작과 Reactive programming에서 지향하는 방법의 충돌에 대해서 잘 설명한다.
+  - 그럼에도 핵심은 1) trade-off를 고려해서 의사결정을 해야되는 점과 2) 문제를 찾았을 때의 원인은 어디에서나 있을 수 있다는 것을 인지해야한다. Intellij에서 health check를 자동으로 해주기때문에 production과 다른 환경임을 인지하기에는 꽤 어려워보인다.
+
 ## 2024.06.05
 - https://sendbird.com/ko/blog/%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C-50%EB%A7%8C%EB%AA%85%EC%9D%98-%EC%9C%A0%EC%A0%80%EC%97%90%EA%B2%8C-push-notification-%EB%B3%B4%EB%82%B4%EA%B8%B0
   - Scheduled job에서 SQS를 고려하지 않는 이유는 보통 15분의 delay 제한때문으로 알고있는데, Step function의 wait time을 이용 가능하다면 인프라적으로 Delayed queue를 만들기 아주 유용해보인다.
