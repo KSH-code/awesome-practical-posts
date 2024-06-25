@@ -1,3 +1,8 @@
+## 2024.06.25
+- https://devocean.sk.com/blog/techBoardDetail.do?ID=166166&boardType=techBlog
+  - Redis의 Persistence에 대해 설명한다. 또한, Threading관리도 설명하는데,
+  - 핵심은 1) Redis는 AOF를 통해 Persistence를 만족시킬 수 있고, RDB라는 방법도 있다. 2) Operation들은 Single thread환경이라 atomic을 보장하지만, I/O는 multi-threading으로 성능 개선이 가능하다.
+
 ## 2024.06.11
 - https://tech.kakaopay.com/post/r2dbc-connection-pool-missing/
   - Reactive환경을 위해 R2DBC를 통해 RDBMS에 접근하는 것은 꽤 많은 곳에서 활용하는 방식이다.
