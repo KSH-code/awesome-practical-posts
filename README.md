@@ -1,3 +1,8 @@
+## 2025.04.30
+- https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent
+  - How Discord optimize their data in streaming.
+  - Key takeways 1) They tried to optimize using compression other than zlib. Even if the method is tested and proved, try again after few years. Because an algorithm and method has been evolved. 2) Finding apporopriate scope to consider trade-offs. 3) can consinder optimization when implementing new features.
+
 ## 2024.08.12
 - https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69
   - 시스템을 문제 없이, Parity를 맞추어 새로 구축하는 방법 방법에 대해 설명한다. (1) 레거시 시스템을 분석하여 공유하고, (2) 새로운 시스템을 분석한 방향으로 구현한 후 Request 를 old, new에 모두 보내 응답값이 달라지는 경우가 있는지 분석하는 것이 인상적이다.
