@@ -1,7 +1,7 @@
 ## 2025.04.30
 - https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent
   - How Discord optimize their data in streaming.
-  - Key takeways 1) They tried to optimize using compression other than zlib. Even if the method is tested and proved, try again after few years. Because an algorithm and method has been evolved. 2) Finding apporopriate scope to consider trade-offs. 3) can consinder optimization when implementing new features.
+  - Key takeways 1) They tried to optimize using compression other than zlib. Even if the method is tested and proved, try again after few years. Because an algorithm and method has been evolved. 2) Figuring apporopriate scope out by considering trade-offs. 3) can consinder optimization when implementing new features.
 
 ## 2024.08.12
 - https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69
